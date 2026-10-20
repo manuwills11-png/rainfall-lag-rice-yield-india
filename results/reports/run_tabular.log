@@ -1,0 +1,55 @@
+[E1] A_weather_only F0_Aggregate_IMD done (9s)
+[E1] A_weather_only F1_Aggregate_ERA5 done (17s)
+[E1] A_weather_only F2_Contemporaneous done (25s)
+[E1] A_weather_only F3_Cumulative done (35s)
+[E1] A_weather_only F4_Stage done (45s)
+[E1] A_weather_only F5_Lag16 done (61s)
+[E1] A_weather_only F6_Lag16_PlusTmaxLags done (83s)
+[E1] A_weather_only F7_Lag16_Anomaly done (100s)
+[E1] A_weather_only F8_Total_Anomaly done (108s)
+[E1] B_level_plus_context F0_Aggregate_IMD done (117s)
+[E1] B_level_plus_context F1_Aggregate_ERA5 done (127s)
+[E1] B_level_plus_context F2_Contemporaneous done (136s)
+[E1] B_level_plus_context F3_Cumulative done (146s)
+[E1] B_level_plus_context F4_Stage done (155s)
+[E1] B_level_plus_context F5_Lag16 done (169s)
+[E1] B_level_plus_context F6_Lag16_PlusTmaxLags done (191s)
+[E1] B_level_plus_context F7_Lag16_Anomaly done (205s)
+[E1] B_level_plus_context F8_Total_Anomaly done (214s)
+[E1] C_anomaly F0_Aggregate_IMD done (222s)
+[E1] C_anomaly F1_Aggregate_ERA5 done (230s)
+[E1] C_anomaly F2_Contemporaneous done (237s)
+[E1] C_anomaly F3_Cumulative done (246s)
+[E1] C_anomaly F4_Stage done (255s)
+[E1] C_anomaly F5_Lag16 done (266s)
+[E1] C_anomaly F6_Lag16_PlusTmaxLags done (286s)
+[E1] C_anomaly F7_Lag16_Anomaly done (300s)
+[E1] C_anomaly F8_Total_Anomaly done (307s)
+[E2a] F5_Lag16
+[E2a] F7_Lag16_Anomaly
+[E2b] shift 0
+[E2b] shift 2
+[E2b] shift 4
+[E2b] shift 6
+[E2b] shift 8
+[E2b] shift 12
+[E2b] shift 16
+[E2c] window 2
+[E2c] window 4
+[E2c] window 6
+[E2c] window 8
+[E2c] window 10
+[E2c] window 12
+[E2c] window 14
+[E2c] window 16
+[E7] A_weather_only F0_Aggregate_IMD
+[E7] A_weather_only F1_Aggregate_ERA5
+[E7] A_weather_only F5_Lag16
+[E7] A_weather_only F7_Lag16_Anomaly
+[E7] A_weather_only F8_Total_Anomaly
+[E7] C_anomaly F0_Aggregate_IMD
+[E7] C_anomaly F1_Aggregate_ERA5
+[E7] C_anomaly F5_Lag16
+[E7] C_anomaly F7_Lag16_Anomaly
+[E7] C_anomaly F8_Total_Anomaly
+ALL DONE

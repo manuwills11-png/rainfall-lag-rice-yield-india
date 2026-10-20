@@ -1,0 +1,5 @@
+Hypothesis / question,Evidence (computed),Verdict
+H1  lag representation lowers forecast error (vs same-source aggregate),"RF/XGB, tiers A-C: Δ MAE(F5−F1) = +4.2, +8.1, +12.7, -6.8, +3.3, +3.3 kg/ha; CI strictly below 0 in 1/6 cells",NOT SUPPORTED (lags are worse/no better)
+H1b temporal order is exploited (shuffled-week control),"MAE(shuffled − true): F5/RF -0.8, F5/XGB -5.4, F7/RF -2.4, F7/XGB -4.8","trees: NOT SUPPORTED (shuffling does not hurt); recurrent nets Δ MAE(true−shuffled): tier C LSTM +2.3 [+0.8,+3.6], GRU +1.2 [-0.4,+2.7] -> NOT SUPPORTED; tier A LSTM -4.0 [-7.9,+0.0], GRU -17.8 [-23.5,-12.0] -> NOT SUPPORTED / partly"
+H2  rainfall timing carries structured information (explanatory),"panel FE, H0 equal coefficients: p = 3.1e-08; weekly lags add 0.52 pp of FE-residual variance beyond the total (1.01 % → 1.53 %)",SUPPORTED
+H3  the true calendar window matters (placebo windows),MAE by anchor shift (F5): RF: 332.8 → 342.4; XGB: 337.8 → 359.5 (shift 0 → 16),SUPPORTED

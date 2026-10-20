@@ -1,0 +1,5 @@
+,MAE,RMSE,R2
+Train-state mean,740.643,918.756,0.1246
+Train-district mean,641.093,807.045,0.3245
+Persistence (last year's yield),362.291,544.769,0.6922
+District baseline = mean of last 3 seasons,337.178,484.811,0.7562

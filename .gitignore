@@ -38,3 +38,11 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+# large external binaries (re-downloadable via scripts/12_download_imd_grid.py)
+data/external/imd_grid/
+data/external/daily_rainfall/
+data/external/*.log
+results/models/*.pt
+__pycache__/
+.ipynb_checkpoints/

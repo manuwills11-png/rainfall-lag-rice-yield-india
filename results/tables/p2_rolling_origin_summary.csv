@@ -1,0 +1,5 @@
+tier,model,F0_Aggregate_IMD,F1_Aggregate_IMDgrid,F5_Lag16,F7_Lag16_Anomaly,F8_Total_Anomaly
+A_weather_only,RF,639.1,650.8,665.8,635.3,664.9
+A_weather_only,XGB,640.1,646.8,652.1,621.9,661.2
+C_anomaly,RF,335.4,335.9,338.9,337.7,335.4
+C_anomaly,XGB,338.1,338.0,343.7,341.0,337.9

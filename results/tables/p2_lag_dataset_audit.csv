@@ -1,0 +1,11 @@
+check,value
+rows,10279.0
+districts,384.0
+lag columns,16.0
+missing rain lags,0.0
+missing tmax lags,0.0
+min T_ref,41.0
+max T_ref,47.0
+max lag week index (must be < T_ref),46.0
+mean 16-week rainfall (mm),749.1
+share of observations with zero rain in some week,0.702

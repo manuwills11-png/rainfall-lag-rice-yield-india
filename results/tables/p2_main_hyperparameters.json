@@ -1,0 +1,272 @@
+{
+ "A_weather_only|F0_Aggregate_IMD|Ridge": {
+  "alpha": 0.1
+ },
+ "A_weather_only|F0_Aggregate_IMD|RF": {
+  "max_depth": 20
+ },
+ "A_weather_only|F0_Aggregate_IMD|XGB": {
+  "max_depth": 6,
+  "learning_rate": 0.05
+ },
+ "A_weather_only|F1_Aggregate_IMDgrid|Ridge": {
+  "alpha": 0.1
+ },
+ "A_weather_only|F1_Aggregate_IMDgrid|RF": {
+  "max_depth": 20
+ },
+ "A_weather_only|F1_Aggregate_IMDgrid|XGB": {
+  "max_depth": 4,
+  "learning_rate": 0.05
+ },
+ "A_weather_only|F2_Contemporaneous|Ridge": {
+  "alpha": 0.1
+ },
+ "A_weather_only|F2_Contemporaneous|RF": {
+  "max_depth": 20
+ },
+ "A_weather_only|F2_Contemporaneous|XGB": {
+  "max_depth": 4,
+  "learning_rate": 0.05
+ },
+ "A_weather_only|F3_Cumulative|Ridge": {
+  "alpha": 0.1
+ },
+ "A_weather_only|F3_Cumulative|RF": {
+  "max_depth": 20
+ },
+ "A_weather_only|F3_Cumulative|XGB": {
+  "max_depth": 6,
+  "learning_rate": 0.05
+ },
+ "A_weather_only|F4_Stage|Ridge": {
+  "alpha": 0.1
+ },
+ "A_weather_only|F4_Stage|RF": {
+  "max_depth": 20
+ },
+ "A_weather_only|F4_Stage|XGB": {
+  "max_depth": 6,
+  "learning_rate": 0.05
+ },
+ "A_weather_only|F5_Lag16|Ridge": {
+  "alpha": 0.1
+ },
+ "A_weather_only|F5_Lag16|RF": {
+  "max_depth": 20
+ },
+ "A_weather_only|F5_Lag16|XGB": {
+  "max_depth": 6,
+  "learning_rate": 0.05
+ },
+ "A_weather_only|F6_Lag16_PlusTmaxLags|Ridge": {
+  "alpha": 0.1
+ },
+ "A_weather_only|F6_Lag16_PlusTmaxLags|RF": {
+  "max_depth": 20
+ },
+ "A_weather_only|F6_Lag16_PlusTmaxLags|XGB": {
+  "max_depth": 6,
+  "learning_rate": 0.05
+ },
+ "A_weather_only|F7_Lag16_Anomaly|Ridge": {
+  "alpha": 0.1
+ },
+ "A_weather_only|F7_Lag16_Anomaly|RF": {
+  "max_depth": 20
+ },
+ "A_weather_only|F7_Lag16_Anomaly|XGB": {
+  "max_depth": 6,
+  "learning_rate": 0.05
+ },
+ "A_weather_only|F8_Total_Anomaly|Ridge": {
+  "alpha": 0.1
+ },
+ "A_weather_only|F8_Total_Anomaly|RF": {
+  "max_depth": 20
+ },
+ "A_weather_only|F8_Total_Anomaly|XGB": {
+  "max_depth": 4,
+  "learning_rate": 0.05
+ },
+ "B_level_plus_context|F0_Aggregate_IMD|Ridge": {
+  "alpha": 100
+ },
+ "B_level_plus_context|F0_Aggregate_IMD|RF": {
+  "max_depth": 12
+ },
+ "B_level_plus_context|F0_Aggregate_IMD|XGB": {
+  "max_depth": 4,
+  "learning_rate": 0.05
+ },
+ "B_level_plus_context|F1_Aggregate_IMDgrid|Ridge": {
+  "alpha": 100
+ },
+ "B_level_plus_context|F1_Aggregate_IMDgrid|RF": {
+  "max_depth": 12
+ },
+ "B_level_plus_context|F1_Aggregate_IMDgrid|XGB": {
+  "max_depth": 6,
+  "learning_rate": 0.03
+ },
+ "B_level_plus_context|F2_Contemporaneous|Ridge": {
+  "alpha": 10
+ },
+ "B_level_plus_context|F2_Contemporaneous|RF": {
+  "max_depth": 12
+ },
+ "B_level_plus_context|F2_Contemporaneous|XGB": {
+  "max_depth": 4,
+  "learning_rate": 0.05
+ },
+ "B_level_plus_context|F3_Cumulative|Ridge": {
+  "alpha": 100
+ },
+ "B_level_plus_context|F3_Cumulative|RF": {
+  "max_depth": 12
+ },
+ "B_level_plus_context|F3_Cumulative|XGB": {
+  "max_depth": 4,
+  "learning_rate": 0.05
+ },
+ "B_level_plus_context|F4_Stage|Ridge": {
+  "alpha": 100
+ },
+ "B_level_plus_context|F4_Stage|RF": {
+  "max_depth": 16
+ },
+ "B_level_plus_context|F4_Stage|XGB": {
+  "max_depth": 4,
+  "learning_rate": 0.05
+ },
+ "B_level_plus_context|F5_Lag16|Ridge": {
+  "alpha": 10
+ },
+ "B_level_plus_context|F5_Lag16|RF": {
+  "max_depth": 20
+ },
+ "B_level_plus_context|F5_Lag16|XGB": {
+  "max_depth": 4,
+  "learning_rate": 0.05
+ },
+ "B_level_plus_context|F6_Lag16_PlusTmaxLags|Ridge": {
+  "alpha": 100
+ },
+ "B_level_plus_context|F6_Lag16_PlusTmaxLags|RF": {
+  "max_depth": 20
+ },
+ "B_level_plus_context|F6_Lag16_PlusTmaxLags|XGB": {
+  "max_depth": 6,
+  "learning_rate": 0.03
+ },
+ "B_level_plus_context|F7_Lag16_Anomaly|Ridge": {
+  "alpha": 100
+ },
+ "B_level_plus_context|F7_Lag16_Anomaly|RF": {
+  "max_depth": 20
+ },
+ "B_level_plus_context|F7_Lag16_Anomaly|XGB": {
+  "max_depth": 4,
+  "learning_rate": 0.05
+ },
+ "B_level_plus_context|F8_Total_Anomaly|Ridge": {
+  "alpha": 100
+ },
+ "B_level_plus_context|F8_Total_Anomaly|RF": {
+  "max_depth": 16
+ },
+ "B_level_plus_context|F8_Total_Anomaly|XGB": {
+  "max_depth": 6,
+  "learning_rate": 0.03
+ },
+ "C_anomaly|F0_Aggregate_IMD|Ridge": {
+  "alpha": 1000
+ },
+ "C_anomaly|F0_Aggregate_IMD|RF": {
+  "max_depth": 8
+ },
+ "C_anomaly|F0_Aggregate_IMD|XGB": {
+  "max_depth": 4,
+  "learning_rate": 0.05
+ },
+ "C_anomaly|F1_Aggregate_IMDgrid|Ridge": {
+  "alpha": 1000
+ },
+ "C_anomaly|F1_Aggregate_IMDgrid|RF": {
+  "max_depth": 8
+ },
+ "C_anomaly|F1_Aggregate_IMDgrid|XGB": {
+  "max_depth": 4,
+  "learning_rate": 0.05
+ },
+ "C_anomaly|F2_Contemporaneous|Ridge": {
+  "alpha": 1000
+ },
+ "C_anomaly|F2_Contemporaneous|RF": {
+  "max_depth": 8
+ },
+ "C_anomaly|F2_Contemporaneous|XGB": {
+  "max_depth": 4,
+  "learning_rate": 0.05
+ },
+ "C_anomaly|F3_Cumulative|Ridge": {
+  "alpha": 1000
+ },
+ "C_anomaly|F3_Cumulative|RF": {
+  "max_depth": 8
+ },
+ "C_anomaly|F3_Cumulative|XGB": {
+  "max_depth": 4,
+  "learning_rate": 0.05
+ },
+ "C_anomaly|F4_Stage|Ridge": {
+  "alpha": 1000
+ },
+ "C_anomaly|F4_Stage|RF": {
+  "max_depth": 8
+ },
+ "C_anomaly|F4_Stage|XGB": {
+  "max_depth": 6,
+  "learning_rate": 0.03
+ },
+ "C_anomaly|F5_Lag16|Ridge": {
+  "alpha": 1000
+ },
+ "C_anomaly|F5_Lag16|RF": {
+  "max_depth": 8
+ },
+ "C_anomaly|F5_Lag16|XGB": {
+  "max_depth": 4,
+  "learning_rate": 0.05
+ },
+ "C_anomaly|F6_Lag16_PlusTmaxLags|Ridge": {
+  "alpha": 1000
+ },
+ "C_anomaly|F6_Lag16_PlusTmaxLags|RF": {
+  "max_depth": 12
+ },
+ "C_anomaly|F6_Lag16_PlusTmaxLags|XGB": {
+  "max_depth": 6,
+  "learning_rate": 0.03
+ },
+ "C_anomaly|F7_Lag16_Anomaly|Ridge": {
+  "alpha": 1000
+ },
+ "C_anomaly|F7_Lag16_Anomaly|RF": {
+  "max_depth": 8
+ },
+ "C_anomaly|F7_Lag16_Anomaly|XGB": {
+  "max_depth": 6,
+  "learning_rate": 0.03
+ },
+ "C_anomaly|F8_Total_Anomaly|Ridge": {
+  "alpha": 1000
+ },
+ "C_anomaly|F8_Total_Anomaly|RF": {
+  "max_depth": 8
+ },
+ "C_anomaly|F8_Total_Anomaly|XGB": {
+  "max_depth": 4,
+  "learning_rate": 0.05
+ }
+}

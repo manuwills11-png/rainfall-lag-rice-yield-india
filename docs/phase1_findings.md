@@ -69,3 +69,11 @@ Test error exhibits substantial spatial variation across the 20 states (`results
 2. **Validation of the 16-Week Pre-Harvest Lag Hypothesis:**
    - These baseline empirical findings provide direct motivation for Phase 2.
    - Without time-resolved weekly rainfall sequences preceding harvest, models cannot detect critical phenological stress periods (e.g. panicle initiation, flowering, grain filling).
+
+---
+
+## 5. Update after Phase 2 (read this before citing Section 4)
+
+Section 4 attributed the weak test performance to the lack of intra-seasonal rainfall timing. Phase 2 tested that with real daily IMD rainfall and **did not confirm it**:
+the dominant cause is non-stationarity (test-year mean yield +32 % above training; a no-weather "mean of the last three seasons" forecast reaches R² = 0.756),
+and 16 weekly lags do not outperform a seasonal total out of sample. See `docs/research_paper.md` (Sections 5-6).

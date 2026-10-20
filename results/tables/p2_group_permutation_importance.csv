@@ -1,0 +1,7 @@
+tier,group,mae_increase,sd
+C_anomaly,16 weekly rainfall lags (jointly),10.96359826981839,1.836994383500015
+C_anomaly,state fixed effects,2.81238047277745,1.2603102865283886
+C_anomaly,IMD_Tmax,0.043848188542138664,0.5272240853143263
+A_weather_only,state fixed effects,297.07621220312166,13.02864836545231
+A_weather_only,16 weekly rainfall lags (jointly),23.916358852603675,4.143671261952644
+A_weather_only,IMD_Tmax,4.145124295524131,3.1080983634838932

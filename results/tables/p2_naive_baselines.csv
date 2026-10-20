@@ -1,0 +1,7 @@
+model,split,MAE,RMSE,R2,n
+Naive: train state mean,validation,630.526,803.281,0.2887,1448
+Naive: train district mean,validation,515.31,657.776,0.5231,1448
+Naive: persistence (prev-year yield),validation,345.925,538.771,0.68,1448
+Naive: train state mean,test,740.643,918.756,0.1246,1470
+Naive: train district mean,test,641.093,807.045,0.3245,1470
+Naive: persistence (prev-year yield),test,362.291,544.769,0.6922,1470

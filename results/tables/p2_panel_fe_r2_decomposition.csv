@@ -1,0 +1,4 @@
+model,R2,incremental_within_R2_pct
+district+year FE (+Tmax),0.7674545243971138,0.0
++ seasonal total anomaly,0.7698006511378184,1.0088894374840456
++ 16 weekly anomalies,0.7710050757540388,1.5268202263320576

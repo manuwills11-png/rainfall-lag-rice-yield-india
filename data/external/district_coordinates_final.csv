@@ -1,0 +1,385 @@
+stable_geographic_id,State,District,lat,lon,source,match,lat0,lon0,r_train_initial,r_train_final,moved
+ANDHRA_PRADESH_44,Andhra Pradesh,Srikakulam,18.5,84.25,nominatim,"Srikakulam District, Andhra Pradesh, India",18.622438,84.1443764,0.8405412899818916,0.8405412899818916,False
+ANDHRA_PRADESH_45,Andhra Pradesh,Vishakhapatnam,18.0,82.75,alias:open-meteo,"Visakhapatnam, Visakhapatanam, Andhra Pradesh",17.68009,83.20161,0.5397712379009105,0.7715816406658134,True
+ANDHRA_PRADESH_46,Andhra Pradesh,East Godavari,17.0,81.75,nominatim,"East Godavari District, Andhra Pradesh, India",16.9956639,81.7154378,0.7721265386776468,0.7721265386776468,False
+ANDHRA_PRADESH_47,Andhra Pradesh,West Godavari,16.75,81.5,nominatim,"West Godavari District, Andhra Pradesh, India",16.6443029,81.5885247,0.8339837777749582,0.8339837777749582,False
+ANDHRA_PRADESH_48,Andhra Pradesh,Krishna,16.25,81.0,nominatim,"Krishna District, Andhra Pradesh, India",16.2135466,81.0277844,0.832665764491612,0.832665764491612,False
+ANDHRA_PRADESH_49,Andhra Pradesh,Guntur,16.25,80.5,nominatim,"Guntur District, Andhra Pradesh, India",16.2853547,80.5686143,0.8505336575610789,0.8505336575610789,False
+ANDHRA_PRADESH_50,Andhra Pradesh,Nellore,14.25,79.25,nominatim,"Sri Potti Sri Ramulu Nellore District, Andhra Pradesh, India",14.557001,79.7234781,0.7961396158153794,0.8661322281446333,True
+ANDHRA_PRADESH_503,Andhra Pradesh,Vizianagaram,18.25,83.0,nominatim,"Vizianagaram District, Andhra Pradesh, India",18.2760018,83.4662692,0.7876958277059011,0.872603604714995,True
+ANDHRA_PRADESH_504,Andhra Pradesh,Prakasam,15.25,79.5,nominatim,"Prakasam District, Andhra Pradesh, India",15.5641955,80.0066786,0.6602227453578748,0.8384447803810484,True
+ANDHRA_PRADESH_51,Andhra Pradesh,Kurnool,15.5,77.5,nominatim,"Kurnool District, Andhra Pradesh, India",15.5478804,77.554259,0.9454007577518346,0.9454007577518346,False
+ANDHRA_PRADESH_52,Andhra Pradesh,Anantapur,15.25,77.5,nominatim,"Food Corporation of India, Timmanacherla, Guntakal, Guntakal Mandal, Anantapuramu District, Andhra Pradesh, 515800, India",15.161059,77.3913642,0.9169216079423781,0.9169216079423781,False
+ANDHRA_PRADESH_53,Andhra Pradesh,Cuddapah,14.5,78.75,nominatim,"Patha Cuddapah, Kadapa Mandal, YSR  Kadapa District, Andhra Pradesh, 516002, India",14.4956602,78.8349278,0.9766823205309814,0.9766823205309814,False
+ANDHRA_PRADESH_54,Andhra Pradesh,Chittoor,13.5,79.25,nominatim,"Chittoor District, Andhra Pradesh, India",13.325036,79.6480611,0.7847075037445798,0.908474666913672,True
+ASSAM_1047,Assam,Bongaigaon,26.5,90.5,nominatim,"Bongaigaon, Assam, India",26.348883,90.6291434,0.6526365324292628,0.8732653125140399,True
+ASSAM_1048,Assam,Dhemaji,27.5,94.75,nominatim,"Dhemaji, Assam, India",27.5945155,94.7192098,0.795545932564545,0.795545932564545,False
+ASSAM_1049,Assam,Hailakandi,24.5,92.75,nominatim,"Hailakandi district, Assam, India",24.5076094,92.6267589,0.7626034098964214,0.7626034098964214,False
+ASSAM_1050,Assam,Morigaon,26.25,92.25,nominatim,"Morigaon District Library (মৰিগাওঁ জিলা পুথিভঁৰাল), SH3, Kamalabari, Morigaon, Marigaon, Assam, 782105, India",26.2535238,92.3499401,0.8972283543561428,0.8972283543561428,False
+ASSAM_1051,Assam,Tinsukia,27.5,95.5,nominatim,"Tinsukia, Assam, India",27.5971709,95.5668529,0.7339681464253296,0.7339681464253296,False
+ASSAM_601,Assam,Cachar,24.75,92.75,nominatim,"Cachar, Assam, India",24.75864,92.8816648,0.6411907368381451,0.7254051748250309,True
+ASSAM_602,Assam,Darrang,26.5,92.0,nominatim,"Darrang, Assam, India",26.4373481,92.0047145,0.9046841872619017,0.9046841872619017,False
+ASSAM_603,Assam,Dibrugarh,27.25,95.0,nominatim,"Dibrugarh, Assam, India",27.400599,94.9950865,0.7392352357801145,0.7910518124925422,True
+ASSAM_604,Assam,Goalpara,26.0,90.5,nominatim,"Goalpara, Assam, India",26.0491877,90.6001859,0.8209114764878891,0.8209114764878891,False
+ASSAM_605,Assam,Kamrup,26.25,91.5,nominatim,"Kamrup, Assam, India",26.1468861,91.2227397,0.7966600595048969,0.9097926806772939,True
+ASSAM_606,Assam,Karbianglong North Cachar,26.0,93.25,alias:open-meteo,"Diphu, Karbi Anglong, Assam",25.84341,93.43116,0.7267179707071639,0.8753484942409195,True
+ASSAM_607,Assam,Lakhimpur,27.25,94.25,nominatim,"Lakhimpur, Assam, India",27.1763356,94.1992932,0.9323385308381319,0.9323385308381319,False
+ASSAM_608,Assam,North Cachar Hills,25.5,93.0,nominatim,"North Cāchār Hills, Dima Hasao, Assam, India",25.5,93.0,0.7574611829678942,0.7574611829678942,False
+ASSAM_609,Assam,Nowgong,26.25,92.75,nominatim,"Nowgong, Nagaon, Assam, 782426, India",26.133333,92.666667,0.9529732476654715,0.9529732476654715,False
+ASSAM_610,Assam,Sibsagar,27.0,94.75,nominatim,"Sivasagar, Sibsagar, Sivasagar, Assam, 785600, India",26.9834936,94.6394226,0.8560232819069782,0.8560232819069782,False
+ASSAM_615,Assam,Barpeta,26.25,91.0,nominatim,"Barpeta, Assam, India",26.345941,91.039708,0.911723798822978,0.911723798822978,False
+ASSAM_616,Assam,Dhubri,26.25,90.0,nominatim,"Dhubri, Assam, India",26.132275,90.1249962,0.9264073450262191,0.9264073450262191,False
+ASSAM_617,Assam,Golaghat,26.25,94.0,nominatim,"Golaghat, Assam, India",26.3689557,94.0086553,0.887763085275763,0.887763085275763,False
+ASSAM_618,Assam,Jorhat,26.75,94.25,nominatim,"Jorhat, Assam, India",26.6500766,94.2700644,0.7959504691462974,0.7959504691462974,False
+ASSAM_619,Assam,Karimgang,24.75,92.5,nominatim,"Badarpur Police Station, badarpur, dist karimgang, assam, NH37, Srigouri, Badarpur, Karimganj, Assam, 788806, India",24.8695991,92.5570273,0.6772087818388933,0.6772087818388933,False
+ASSAM_620,Assam,Kokrajhar,26.5,90.0,nominatim,"Kokrajhar, Assam, India",26.4912104,90.1215209,0.9201471932033943,0.9201471932033943,False
+ASSAM_621,Assam,Nalbari,26.25,91.5,nominatim,"Nalbari, Assam, India",26.3533632,91.3983662,0.8991700513971117,0.8991700513971117,False
+ASSAM_622,Assam,Sonitpur,26.75,92.75,nominatim,"Sonitpur, Assam, India",26.7677707,92.7014089,0.8303799564643389,0.8303799564643389,False
+BIHAR_902,Bihar,Muzaffarpur,26.25,85.25,nominatim,"Muzaffarpur, Bihar, India",26.1482548,85.3316097,0.9479862243047,0.9479862243047,False
+BIHAR_903,Bihar,Darbhanga,26.0,86.0,nominatim,"Darbhanga, Bihar, India",26.0829899,86.0324951,0.9367290752225406,0.9367290752225406,False
+BIHAR_904,Bihar,Saharsa,25.75,86.5,nominatim,"Saharsa, Bihar, India",25.8330757,86.6143751,,,False
+BIHAR_905,Bihar,Purnea,25.75,87.5,nominatim,"Purnia, Purnia East, Purnia, Bihar, 854301, India",25.7773312,87.4731227,0.9311120993008447,0.9311120993008447,False
+BIHAR_906,Bihar,Saran,25.75,85.25,open-meteo,"Sonpur, Sáran District, Bihar",25.69336,85.1718,0.8704433171630521,0.8704433171630521,False
+BIHAR_907,Bihar,Patna,25.5,85.25,open-meteo,"Patna, Patna district, Bihar",25.59408,85.13563,0.9341912965954533,0.9341912965954533,False
+BIHAR_908,Bihar,Munger,25.25,86.5,open-meteo,"Munger, Munger District, Bihar",25.37459,86.47455,0.8605572940038535,0.8605572940038535,False
+BIHAR_909,Bihar,Bhagalpur,25.25,87.0,open-meteo,"Bhagalpur, Bhāgalpur District, Bihar",25.24446,86.97183,0.9168443214014952,0.9168443214014952,False
+BIHAR_912,Bihar,Gaya,24.75,85.0,open-meteo,"Gaya, Gaya District, Bihar",24.79686,85.00385,0.9848914107088182,0.9848914107088182,False
+BIHAR_914,Bihar,Dhanbad,23.75,86.5,alias:open-meteo,"Dhanbad, Dhanbad District, Jharkhand",23.79759,86.42992,0.8957056500452261,0.8957056500452261,False
+BIHAR_918,Bihar,Nalanda,25.25,85.5,nominatim,"Nalanda, Bihar, India",25.211599,85.4484611,0.9429247690764766,0.9429247690764766,False
+BIHAR_919,Bihar,Nawada,25.0,85.5,open-meteo,"Nawāda, Nawada District, Bihar",24.8867,85.54364,0.9240791993591545,0.9240791993591545,False
+BIHAR_920,Bihar,Aurangabad,24.75,84.25,open-meteo,"Aurangābād, Aurangabad, Bihar",24.75204,84.3742,0.9521498032837454,0.9521498032837454,False
+BIHAR_921,Bihar,Bhojpur,25.5,84.25,open-meteo,"Bhojpur Kadīm, Buxar, Bihar",25.58409,84.12653,0.9686515109505208,0.9686515109505208,False
+BIHAR_922,Bihar,Rohtas,24.75,84.0,open-meteo,"Rohtas, Rohtas District, Bihar",24.62978,83.92,0.9522462266231201,0.9522462266231201,False
+BIHAR_923,Bihar,Siwan,26.25,84.25,open-meteo,"Siwān, Siwan, Bihar",26.22096,84.35609,0.889305216989155,0.889305216989155,False
+BIHAR_924,Bihar,Gopalganj,26.5,84.5,open-meteo,"Gopālganj, Gopalganj, Bihar",26.46734,84.44041,0.9247608904386605,0.9247608904386605,False
+BIHAR_925,Bihar,East Champaran,26.75,85.0,nominatim,"East Champaran, Bihar, India",26.6393261,84.8990136,0.9607990054809775,0.9607990054809775,False
+BIHAR_926,Bihar,West Champaran,27.0,84.25,nominatim,"West Champaran, Bihar, India",27.0518367,84.3351209,0.953334825320286,0.953334825320286,False
+BIHAR_927,Bihar,Vaishali,26.0,85.0,open-meteo,"Vaishali, Muzaffarpur district, Bihar",25.99197,85.08156,0.9448542089569247,0.9448542089569247,False
+BIHAR_928,Bihar,Sitamari,26.5,85.5,alias:open-meteo,"Sītāmarhi, Sītāmarhi District, Bihar",26.59357,85.4906,0.9494509396766484,0.9494509396766484,False
+BIHAR_929,Bihar,Madhubani,26.25,86.0,open-meteo,"Madhubani, Madhubani, Bihar",26.35367,86.07169,0.8932162318742137,0.8932162318742137,False
+BIHAR_930,Bihar,Samastipur,25.75,85.75,open-meteo,"Samāstipur, Samastipur, Bihar",25.86222,85.77953,0.9475151308296197,0.9475151308296197,False
+BIHAR_931,Bihar,Begusarai,25.5,86.25,open-meteo,"Begusarai, Begusarai, Bihar",25.41853,86.13389,0.8332822988548476,0.8332822988548476,False
+BIHAR_932,Bihar,Katihar,25.5,87.5,open-meteo,"Katihar, Katihar, Bihar",25.53852,87.57044,0.9704013261565804,0.9704013261565804,False
+BIHAR_934,Bihar,Jehanabad,25.25,85.0,open-meteo,"Jahānābād, Jehanabad, Bihar",25.21368,84.9871,0.9391128703228283,0.9391128703228283,False
+BIHAR_935,Bihar,Madhepura,26.0,86.75,open-meteo,"Madhepura, Madhepura, Bihar",25.92127,86.79271,0.9196771448147386,0.9196771448147386,False
+BIHAR_936,Bihar,Khagaria,25.5,86.5,open-meteo,"Khagaria, Khagaria, Bihar",25.5022,86.46708,0.8600170757403401,0.8600170757403401,False
+BIHAR_945,Bihar,Araria,26.25,87.5,open-meteo,"Arāria, Araria, Bihar",26.14934,87.51323,0.9224018822910338,0.9224018822910338,False
+BIHAR_946,Bihar,Kishanganj,26.0,88.0,open-meteo,"Kishanganj, Kishanganj, Bihar",26.10224,87.95534,0.971678246690801,0.971678246690801,False
+CHHATTISGARH_1,Chhattisgarh,Durg,21.25,81.25,open-meteo,"Durg, Durg district, Chhattisgarh",21.19147,81.27619,0.9103215065659211,0.9103215065659211,False
+CHHATTISGARH_2,Chhattisgarh,Bastar,19.25,82.0,open-meteo,"Bastar, Bastar, Chhattisgarh",19.20306,81.92959,0.8567275399323518,0.8567275399323518,False
+CHHATTISGARH_3,Chhattisgarh,Raipur,21.25,81.75,open-meteo,"Raipur, Raipur district, Chhattisgarh",21.23333,81.63333,0.8807028159042247,0.8807028159042247,False
+CHHATTISGARH_4,Chhattisgarh,Bilaspur,22.0,82.25,open-meteo,"Bilāspur, Bilāspur District, Chhattisgarh",22.08005,82.15543,0.9438121209166122,0.9438121209166122,False
+CHHATTISGARH_5,Chhattisgarh,Raigarh,22.0,83.5,open-meteo,"Raigarh, Raigarh district, Chhattisgarh",21.89764,83.3966,0.9178724298550837,0.9178724298550837,False
+CHHATTISGARH_501,Chhattisgarh,Raj Nandgaon,21.0,81.0,open-meteo,"Rāj-Nāndgaon, Rajnandgaon, Chhattisgarh",21.09687,81.0289,0.9450893513861137,0.9450893513861137,False
+CHHATTISGARH_6,Chhattisgarh,Surguja,22.75,82.75,open-meteo,"Surgujāpāra, Korba, Chhattisgarh",22.41798,82.46992,0.7918494965974865,0.8816980279049335,True
+GUJARAT_121,Gujarat,Ahmedabad,23.0,72.5,open-meteo,"Ahmedabad, Ahmadābād District, Gujarat",23.02579,72.58727,0.9366741658090048,0.9366741658090048,False
+GUJARAT_122,Gujarat,Amreli,21.5,71.25,open-meteo,"Amreli, Amreli district, Gujarat",21.59983,71.21169,,,False
+GUJARAT_123,Gujarat,Bans Kantha,24.25,72.5,alias:open-meteo,"Pālanpur, Banas Kantha, Gujarat",24.17128,72.43827,,,False
+GUJARAT_124,Gujarat,Bharuch,21.75,73.0,open-meteo,"Bharūch, Bharūch District, Gujarat",21.69482,72.9805,0.9511757666749605,0.9511757666749605,False
+GUJARAT_125,Gujarat,Vadodara,22.25,73.25,open-meteo,"Vadodara, Vadodara, Gujarat",22.29941,73.20812,0.9637489673434914,0.9637489673434914,False
+GUJARAT_126,Gujarat,Bhavnagar,21.75,72.25,open-meteo,"Bhavnagar, Bhavnagar, Gujarat",21.76287,72.15331,0.9567531789174684,0.9567531789174684,False
+GUJARAT_127,Gujarat,Valsad,20.5,73.0,open-meteo,"Valsād, Bulsar District, Gujarat",20.61013,72.93428,0.9148941037096808,0.9148941037096808,False
+GUJARAT_128,Gujarat,The Dangs,20.75,73.75,nominatim,"The Dāngs, Dang, Gujarat, India",20.75,73.75,0.9090501378401691,0.9090501378401691,False
+GUJARAT_130,Gujarat,Junagadh,21.5,70.5,open-meteo,"Jūnāgadh, Jūnāgadh District, Gujarat",21.51966,70.45981,0.9609502208281827,0.9609502208281827,False
+GUJARAT_131,Gujarat,Kheda,22.75,72.75,open-meteo,"Kheda, Kheda district, Gujarat",22.75218,72.68533,0.9670768422693895,0.9670768422693895,False
+GUJARAT_133,Gujarat,Mahesana,23.5,72.5,open-meteo,"Mahesāna, Mehsāna District, Gujarat",23.59864,72.38472,0.9730407997853671,0.9730407997853671,False
+GUJARAT_134,Gujarat,Panch Mahals,23.0,74.0,nominatim,"Pānch Mahāls, Dahod, Gujarat, 389175, India",23.0,74.0,0.9909610386623382,0.9909610386623382,False
+GUJARAT_136,Gujarat,Sabar Kantha,23.5,73.25,nominatim,"Sabar Kāntha, Aravalli, Gujarat, 383315, India",23.5,73.25,0.9934121254898605,0.9934121254898605,False
+GUJARAT_137,Gujarat,Surat,21.25,72.75,open-meteo,"Surat, Surat District, Gujarat",21.19594,72.83023,0.8735516056558116,0.8735516056558116,False
+GUJARAT_138,Gujarat,Surendranagar,22.75,71.75,open-meteo,"Surendranagar, Surendranagar, Gujarat",22.72706,71.64856,0.9198918040573968,0.9198918040573968,False
+GUJARAT_518,Gujarat,Gandhinagar,23.25,72.75,open-meteo,"Gandhinagar, Gāndhīnagar District, Gujarat",23.21667,72.68333,0.9715957350261872,0.9715957350261872,False
+HARYANA_177,Haryana,Hisar,29.25,75.75,open-meteo,"Hisar, Hissār District, Haryana",29.15394,75.72294,0.9532481126685484,0.9532481126685484,False
+HARYANA_178,Haryana,Sirsa,29.5,75.0,open-meteo,"Sirsa, Sirsa, Haryana",29.53489,75.02898,0.9675904888923607,0.9675904888923607,False
+HARYANA_179,Haryana,Bhilwani,28.75,76.25,alias:open-meteo,"Bhiwāni, Bhiwani, Haryana",28.79304,76.13968,0.9517536459774623,0.9517536459774623,False
+HARYANA_180,Haryana,Gurgaon,28.0,76.75,nominatim,"District Forest Depart, Gurgaon (IFS, HFS, PIO, SPIO), Sohna Road, Shivaji Nagar, Sector 11A, Gurgaon, Gurugram, Haryana, 110058, India",28.451663,77.0297723,0.8460856919363228,0.8967509183994957,True
+HARYANA_181,Haryana,Jind,29.25,76.25,open-meteo,"Jīnd, Jind, Haryana",29.31577,76.31502,0.9654909856666811,0.9654909856666811,False
+HARYANA_183,Haryana,Ambala,30.25,76.75,open-meteo,"Ambāla, Ambala, Haryana",30.36099,76.79782,0.9166830072833769,0.9166830072833769,False
+HARYANA_184,Haryana,Karnal,29.75,77.0,open-meteo,"Karnāl, Karnāl District, Haryana",29.69197,76.98448,0.9187193496592578,0.9187193496592578,False
+HARYANA_185,Haryana,Kurukshetra,30.0,76.75,open-meteo,"Kurukshetra, Kurukshetra, Haryana",29.9657,76.837,0.9161826959319165,0.9161826959319165,False
+HARYANA_186,Haryana,Rohtak,29.0,76.5,open-meteo,"Rohtak, Rohtak, Haryana",28.89447,76.58917,0.8854602071363713,0.8854602071363713,False
+HARYANA_187,Haryana,Sonipat,29.0,76.75,open-meteo,"Sonīpat, Sonipat, Haryana",28.99478,77.01937,0.8051540282040819,0.9193789739086564,True
+HARYANA_188,Haryana,Faridabad,28.0,77.25,open-meteo,"Faridabad, Faridabad, Haryana",28.41124,77.31316,0.6441223928081422,0.8890632914645695,True
+HARYANA_523,Haryana,Yamuna Nagar,30.25,77.25,open-meteo,"Yamunanagar, Yamunanagar District, Haryana",30.12796,77.28371,0.9268555937939716,0.9268555937939716,False
+HARYANA_524,Haryana,Kaithal,29.75,76.5,open-meteo,"Kaithal, Kaithal, Haryana",29.80153,76.39959,0.9226367652305772,0.9226367652305772,False
+HARYANA_525,Haryana,Panipat,29.5,77.0,open-meteo,"Panipat, Panipat District, Haryana",29.38747,76.96825,0.9366683350768005,0.9366683350768005,False
+HARYANA_526,Haryana,Rewari,27.75,77.0,open-meteo,"Rewāri, Rewari, Haryana",28.199,76.6183,0.811503318402118,0.8982223126821501,True
+HIMACHAL_PRADESH_626,Himachal Pradesh,Bilaspur,31.25,76.75,open-meteo,"Bilaspur, Bilaspur District, Himachal Pradesh",31.33027,76.75663,0.862776676060439,0.862776676060439,False
+HIMACHAL_PRADESH_627,Himachal Pradesh,Chamba,32.5,76.25,open-meteo,"Chamba, Chamba, Himachal Pradesh",32.55531,76.12647,0.9013971099569948,0.9013971099569948,False
+HIMACHAL_PRADESH_628,Himachal Pradesh,Hamirpur,31.75,76.5,open-meteo,"Hamīrpur, Hamirpur, Himachal Pradesh",31.68411,76.52506,0.7763364359608713,0.7763364359608713,False
+HIMACHAL_PRADESH_629,Himachal Pradesh,Kangra,32.0,76.25,open-meteo,"Kangra, Kāngra District, Himachal Pradesh",32.09135,76.26267,0.9233513108472768,0.9233513108472768,False
+HIMACHAL_PRADESH_630,Himachal Pradesh,Kinnaur,31.0,78.5,open-meteo,"Kailāsh, Kinnaur district, Himachal Pradesh",31.52105,78.3628,0.09420103867879091,0.26677180274987383,True
+HIMACHAL_PRADESH_631,Himachal Pradesh,Kulu,31.75,77.25,open-meteo,"Kullu, Kullu, Himachal Pradesh",31.95835,77.10823,0.5831203849367663,0.6743449714173011,True
+HIMACHAL_PRADESH_633,Himachal Pradesh,Solan,30.75,76.75,open-meteo,"Solan, Solan, Himachal Pradesh",30.90908,77.10869,0.8473437481736429,0.8995631987199203,True
+HIMACHAL_PRADESH_634,Himachal Pradesh,Mandi,31.75,76.5,open-meteo,"Mandi, Mandi, Himachal Pradesh",31.71194,76.93273,0.7978019676494844,0.8565187231925179,True
+HIMACHAL_PRADESH_635,Himachal Pradesh,Shimla,31.25,77.25,open-meteo,"Shimla, Shimla district, Himachal Pradesh",31.10442,77.16662,0.7441715912441811,0.832312455586638,True
+HIMACHAL_PRADESH_636,Himachal Pradesh,Sirmapur,30.5,77.25,alias:open-meteo,"Nāhan, Sirmaur, Himachal Pradesh",30.56029,77.29426,0.8938508179890639,0.8938508179890639,False
+HIMACHAL_PRADESH_637,Himachal Pradesh,Una,31.5,76.25,open-meteo,"Una, Una, Himachal Pradesh",31.46493,76.26914,0.8872036538315503,0.8872036538315503,False
+JHARKHAND_910,Jharkhand,Dumka,24.25,87.25,open-meteo,"Dumka, Dumka District, Jharkhand",24.26778,87.24855,0.9876924594948842,0.9876924594948842,False
+JHARKHAND_913,Jharkhand,Hazaribagh,24.0,85.25,open-meteo,"Hazaribagh, Hazāribāgh District, Jharkhand",23.99241,85.36162,0.9353356419344269,0.9353356419344269,False
+JHARKHAND_915,Jharkhand,Palamau,24.0,84.25,nominatim,"Palāmau, SH9, Betla, Barwadih, Latehar, Jharkhand, India",23.8955106,84.2306,0.9719377388346051,0.9719377388346051,False
+JHARKHAND_916,Jharkhand,Ranchi,23.25,85.25,open-meteo,"Ranchi, Rānchī District, Jharkhand",23.34316,85.3094,0.9837891653255818,0.9837891653255818,False
+JHARKHAND_933,Jharkhand,Giridih,24.25,86.25,open-meteo,"Giridih, Giridih, Jharkhand",24.18622,86.30875,0.9296493769859101,0.9296493769859101,False
+JHARKHAND_937,Jharkhand,Godda,24.75,87.0,open-meteo,"Godda, Godda, Jharkhand",24.827,87.2125,0.8160839373276163,0.8714838813162109,True
+JHARKHAND_938,Jharkhand,Sahibaganj,25.25,87.75,alias:open-meteo,"Sāhibganj, Sahebganj, Jharkhand",25.24425,87.63481,0.9029563593206915,0.9029563593206915,False
+JHARKHAND_940,Jharkhand,Deoghar,24.5,86.75,open-meteo,"Deoghar, Deoghar, Jharkhand",24.48983,86.69902,0.9789737495751015,0.9789737495751015,False
+JHARKHAND_941,Jharkhand,Lohardaga,23.5,84.75,open-meteo,"Lohārdagā, Lohardaga, Jharkhand",23.43305,84.67992,0.8569967794924949,0.8569967794924949,False
+JHARKHAND_942,Jharkhand,Gumla,23.0,84.5,open-meteo,"Gumlā, Gumla, Jharkhand",23.04268,84.54429,0.9497520087996572,0.9497520087996572,False
+JHARKHAND_943,Jharkhand,Purbi Singhbhum,22.75,86.25,alias:open-meteo,"Jamshedpur, East Singhbhum District, Jharkhand",22.80278,86.18545,0.9053640058146194,0.9053640058146194,False
+JHARKHAND_944,Jharkhand,Paschim Singhbhum,22.5,85.75,alias:open-meteo,"Chāībāsa, West Singhbhum, Jharkhand",22.55038,85.80249,0.9646376261748479,0.9646376261748479,False
+KARNATAKA_549,Karnataka,Bangalore (Urban),13.0,77.5,nominatim,"Bengaluru Urban, Karnataka, India",12.9461554,77.5503844,0.9436407271944385,0.9436407271944385,False
+KARNATAKA_550,Karnataka,Bangalore (Rural),13.0,77.25,nominatim,"Bangalore Rural, Bengaluru North, Karnataka, 562130, India",13.0010872,77.3361225,0.9389826945104875,0.9389826945104875,False
+KARNATAKA_65,Karnataka,Kolar,13.25,78.25,open-meteo,"Kolār, Kolar district, Karnataka",13.13768,78.12999,0.9624611147160261,0.9624611147160261,False
+KARNATAKA_66,Karnataka,Tumkur,13.25,77.0,open-meteo,"Tumakuru, Tumkūr, Karnataka",13.34136,77.1022,0.8491930309668938,0.8491930309668938,False
+KARNATAKA_67,Karnataka,Mysore,12.5,77.0,open-meteo,"Mysore Road Tolgate, Bengaluru Urban, Karnataka",12.95515,77.55292,0.7198272707206613,0.8484721728176533,True
+KARNATAKA_68,Karnataka,Mandya,12.5,77.0,open-meteo,"Mandya, Mandya, Karnataka",12.5223,76.89746,0.9114744179242616,0.9114744179242616,False
+KARNATAKA_69,Karnataka,Hassan,13.0,76.0,open-meteo,"Hassan, Hassan, Karnataka",13.00715,76.0962,0.9090209833001227,0.9090209833001227,False
+KARNATAKA_70,Karnataka,Shimoga,14.0,75.25,nominatim,"Shimoga, Karnataka, India",14.0556503,75.2380553,0.933711259087796,0.933711259087796,False
+KARNATAKA_71,Karnataka,Chikmagalur,13.25,75.75,open-meteo,"Chikkamagaluru, Chikkamagaluru, Karnataka",13.32231,75.774,0.8579031687472166,0.8579031687472166,False
+KARNATAKA_72,Karnataka,Chitradurga,14.25,76.5,open-meteo,"Chitradurga, Chitradurga district, Karnataka",14.22262,76.40038,0.8974197894911945,0.8974197894911945,False
+KARNATAKA_73,Karnataka,Bellary,12.75,78.0,open-meteo,"Bellary Rd, Bengaluru Urban, Karnataka",13.04691,77.59146,0.5255004702181153,0.5819053396635828,True
+KARNATAKA_74,Karnataka,Dharwad,15.0,75.5,open-meteo,"Dharwad, Dharwad district, Karnataka",15.46005,75.00778,0.8203278711847766,0.9288661306352342,True
+KARNATAKA_75,Karnataka,Belgaum,16.0,74.75,open-meteo,"Belgaum Airport, Belgaum district, Karnataka",15.85929,74.61829,0.5468115245547862,0.9391507449207965,True
+KARNATAKA_76,Karnataka,Bijapur,16.75,75.75,open-meteo,"Bijapur, Bijāpur District, Karnataka",16.82442,75.71537,0.9365372685907929,0.9365372685907929,False
+KARNATAKA_77,Karnataka,Bidar,18.0,77.5,open-meteo,"Bidar, Bīdar District, Karnataka",17.90802,77.51524,0.9432387586310713,0.9432387586310713,False
+KARNATAKA_78,Karnataka,Raichur,16.25,77.25,open-meteo,"Rāichūr, Raichur district, Karnataka",16.20546,77.35567,0.8726772989831807,0.8726772989831807,False
+KARNATAKA_79,Karnataka,Gulbarga,17.25,77.0,nominatim,"Kalaburagi, Karnataka, India",17.166667,77.083333,0.8785154771647008,0.8785154771647008,False
+KARNATAKA_80,Karnataka,Dakshin Kannad,12.75,75.25,alias:open-meteo,"Mangalore Tota, Dakshina Kannada District, Karnataka",12.84654,74.84056,0.821791114122834,0.8845893767985216,True
+KARNATAKA_81,Karnataka,Uttar Kannad,14.75,74.25,alias:open-meteo,"Karwar, Kanara North District, Karnataka",14.81361,74.12972,0.9183698696272271,0.9183698696272271,False
+KARNATAKA_82,Karnataka,Kodagu,12.75,77.25,open-meteo,"Kodagurki, Bengaluru Rural, Karnataka",13.2996,77.70028,0.40005117556081476,0.56512687113847,True
+KERALA_651,Kerala,Alappuzm,9.5,76.25,alias:open-meteo,"Alappuzha, Alleppey District, Kerala",9.49004,76.3264,0.789150074602355,0.789150074602355,False
+KERALA_652,Kerala,Kannur,12.0,75.25,open-meteo,"Kannur, Kannur district, Kerala",11.86752,75.35763,0.7308471606919522,0.9144678157283429,True
+KERALA_653,Kerala,Ernakulam,10.0,76.25,open-meteo,"Ernākulam, Ernakulam District, Kerala",9.96714,76.29036,0.9011084841394406,0.9011084841394406,False
+KERALA_654,Kerala,Idukki,10.0,76.75,open-meteo,"Idukki, Idukki district, Kerala",9.85,76.96667,0.5080852691659972,0.771195671358163,True
+KERALA_655,Kerala,Kottayam,9.5,76.5,open-meteo,"Kottayam, Kottayam, Kerala",9.58692,76.52132,0.79695393704766,0.79695393704766,False
+KERALA_656,Kerala,Kozhikode,11.25,75.75,open-meteo,"Kozhikode, Kozhikode, Kerala",11.24802,75.7804,0.9182761724259437,0.9182761724259437,False
+KERALA_657,Kerala,Malapuram,11.0,75.75,open-meteo,"Malapuram, Kozhikode, Kerala",11.44692,75.96144,0.8058854730577361,0.8977064462960672,True
+KERALA_658,Kerala,Palakkad,10.75,76.75,open-meteo,"Palakkad, Palakkad, Kerala",10.77319,76.65366,0.8082628614575131,0.8082628614575131,False
+KERALA_659,Kerala,Kollam,9.0,76.5,open-meteo,"Kollam, Kollam, Kerala",8.88113,76.58469,0.813803884945424,0.813803884945424,False
+KERALA_660,Kerala,Trichur,10.5,76.25,nominatim,"Bank of India, Mahatma Gandhi Road, Kottappuram, Thrissur, Kerala, 680001, India",10.5235193,76.2098714,0.924615346207122,0.924615346207122,False
+KERALA_661,Kerala,Thiruvananthapuram,8.5,77.0,open-meteo,"Thiruvananthapuram, Thiruvananthapuram, Kerala",8.4855,76.94924,0.8891382425209855,0.8891382425209855,False
+KERALA_662,Kerala,Kasargad,12.5,75.0,alias:open-meteo,"Kāsaragod, Kasargod District, Kerala",12.49838,74.98959,0.9170797747591024,0.9170797747591024,False
+KERALA_663,Kerala,Pathanamthitta,9.25,76.75,open-meteo,"Pathanāmthitta, Pathanamthitta, Kerala",9.26667,76.78333,0.8785939912282197,0.8785939912282197,False
+KERALA_664,Kerala,Wayanad,11.75,75.75,nominatim,"Wayanad, Kerala, India",11.7151291,76.1271185,0.7577963639862184,0.8227681105549759,True
+MADHYA_PRADESH_10,Madhya Pradesh,Narsimhapur,23.0,79.25,open-meteo,"Narsimhapur, Narsinghpur, Madhya Pradesh",22.94936,79.18357,0.9570074793517073,0.9570074793517073,False
+MADHYA_PRADESH_11,Madhya Pradesh,Waraseoni,21.75,80.0,open-meteo,"Wārāseonī, Bālāghāt District, Madhya Pradesh",21.76184,80.04301,0.8953350375996574,0.8953350375996574,False
+MADHYA_PRADESH_12,Madhya Pradesh,Mandla,22.5,80.25,open-meteo,"Mandlā, Mandla district, Madhya Pradesh",22.59879,80.37115,0.9512802802690332,0.9512802802690332,False
+MADHYA_PRADESH_13,Madhya Pradesh,Sagar,23.75,78.75,open-meteo,"Saugor, Sagar, Madhya Pradesh",23.83877,78.73874,0.9749362383165978,0.9749362383165978,False
+MADHYA_PRADESH_14,Madhya Pradesh,Damoh,23.75,79.5,open-meteo,"Damoh, Damoh, Madhya Pradesh",23.83312,79.4419,0.9811287615835009,0.9811287615835009,False
+MADHYA_PRADESH_15,Madhya Pradesh,Tikamgarh,24.75,78.75,open-meteo,"Tīkamgarh, Tikamgarh, Madhya Pradesh",24.74327,78.83061,0.9162845114238922,0.9162845114238922,False
+MADHYA_PRADESH_16,Madhya Pradesh,Chhatarpur,25.0,79.5,open-meteo,"Chhatarpur, Chhatarpur, Madhya Pradesh",24.9177,79.58871,0.9091067768686067,0.9091067768686067,False
+MADHYA_PRADESH_17,Madhya Pradesh,Panna,24.75,80.25,open-meteo,"Panna, Panna, Madhya Pradesh",24.72094,80.18772,0.961465398348837,0.961465398348837,False
+MADHYA_PRADESH_18,Madhya Pradesh,Rewa,24.5,81.25,open-meteo,"Rewa, Rewa, Madhya Pradesh",24.53256,81.29234,0.92508287475421,0.92508287475421,False
+MADHYA_PRADESH_19,Madhya Pradesh,Sidhi,24.5,82.0,open-meteo,"Sidhi, Sidhi, Madhya Pradesh",24.4038,81.87954,0.9646993473318367,0.9646993473318367,False
+MADHYA_PRADESH_20,Madhya Pradesh,Satna,24.5,80.75,open-meteo,"Satna, Satna, Madhya Pradesh",24.57726,80.82719,0.9811200248599886,0.9811200248599886,False
+MADHYA_PRADESH_21,Madhya Pradesh,Shadol,23.25,81.25,alias:open-meteo,"Shahdol, Shahdol, Madhya Pradesh",23.29356,81.3619,0.9415511581362112,0.9415511581362112,False
+MADHYA_PRADESH_22,Madhya Pradesh,Gwalior,26.25,78.25,open-meteo,"Gwalior, Gwalior District, Madhya Pradesh",26.22983,78.17337,0.9457538445225486,0.9457538445225486,False
+MADHYA_PRADESH_23,Madhya Pradesh,Shivpuri,25.5,77.75,open-meteo,"Shivpuri, Shivpuri, Madhya Pradesh",25.42378,77.66223,0.9482610681363418,0.9482610681363418,False
+MADHYA_PRADESH_24,Madhya Pradesh,Guna,24.75,77.25,open-meteo,"Guna, Guna, Madhya Pradesh",24.64691,77.3113,0.8960791512156446,0.8960791512156446,False
+MADHYA_PRADESH_25,Madhya Pradesh,Datia,25.75,78.5,open-meteo,"Datia, Datia, Madhya Pradesh",25.67312,78.45908,0.8861779876986083,0.8861779876986083,False
+MADHYA_PRADESH_26,Madhya Pradesh,Morena,26.5,78.0,open-meteo,"Morena, Morena, Madhya Pradesh",26.49892,77.99534,0.882455279409093,0.882455279409093,False
+MADHYA_PRADESH_27,Madhya Pradesh,Bhind,26.5,78.75,open-meteo,"Bhind, Bhind, Madhya Pradesh",26.56671,78.78728,0.9840952325858551,0.9840952325858551,False
+MADHYA_PRADESH_28,Madhya Pradesh,Indore,22.75,75.75,open-meteo,"Indore, Indore district, Madhya Pradesh",22.71792,75.8333,,,False
+MADHYA_PRADESH_29,Madhya Pradesh,Ratlam,23.25,75.0,open-meteo,"Ratlām, Ratlam, Madhya Pradesh",23.33033,75.04032,0.9917540456435068,0.9917540456435068,False
+MADHYA_PRADESH_30,Madhya Pradesh,Ujjain,23.25,75.75,open-meteo,"Ujjain, Ujjain district, Madhya Pradesh",23.18239,75.77643,,,False
+MADHYA_PRADESH_31,Madhya Pradesh,Mandsaur,24.0,75.0,open-meteo,"Mandsaur, Mandasor District, Madhya Pradesh",24.07184,75.06986,,,False
+MADHYA_PRADESH_32,Madhya Pradesh,Dewas,23.0,76.0,open-meteo,"Dewas, Dewas district, Madhya Pradesh",22.96585,76.05526,0.9320004446170853,0.9320004446170853,False
+MADHYA_PRADESH_33,Madhya Pradesh,Dhar,22.5,75.25,open-meteo,"Dhār, Dhar, Madhya Pradesh",22.59373,75.29774,0.9894647337614917,0.9894647337614917,False
+MADHYA_PRADESH_34,Madhya Pradesh,Jhabua,22.75,74.5,open-meteo,"Jhābua, Jhabua, Madhya Pradesh",22.76772,74.59087,0.9878042073501976,0.9878042073501976,False
+MADHYA_PRADESH_35,Madhya Pradesh,Khargone (W. Nimar),21.75,75.5,nominatim,"Khargone, Khargone Tahsil, Khargone, Madhya Pradesh, 451001, India",21.825599,75.614182,0.9655250492527814,0.9655250492527814,False
+MADHYA_PRADESH_36,Madhya Pradesh,Khandwa (E. Nimar),21.75,76.25,alias:open-meteo,"Khandwa, Khandwa, Madhya Pradesh",21.82427,76.35086,0.9443075219558726,0.9443075219558726,False
+MADHYA_PRADESH_37,Madhya Pradesh,Sehore,23.25,77.0,open-meteo,"Sehore, Sehore, Madhya Pradesh",23.2,77.08333,0.956603796210015,0.956603796210015,False
+MADHYA_PRADESH_38,Madhya Pradesh,Raisen,23.25,77.75,open-meteo,"Raisen, Raisen, Madhya Pradesh",23.33033,77.7811,0.9360605317413818,0.9360605317413818,False
+MADHYA_PRADESH_39,Madhya Pradesh,Vidisha,23.75,77.75,open-meteo,"Vidisha, Vidisha, Madhya Pradesh",23.52604,77.81092,0.8138601612765962,0.9205358776759702,True
+MADHYA_PRADESH_40,Madhya Pradesh,Betul,22.0,78.0,open-meteo,"Betūl, Betūl District, Madhya Pradesh",21.90056,77.90229,0.9772691869791726,0.9772691869791726,False
+MADHYA_PRADESH_41,Madhya Pradesh,Rajgarh,24.0,76.75,open-meteo,"Rājgarh, Rajgarh, Madhya Pradesh",24.00826,76.7325,0.968937680786526,0.968937680786526,False
+MADHYA_PRADESH_42,Madhya Pradesh,Shajapur,23.5,76.25,open-meteo,"Shājāpur, Shājāpur District, Madhya Pradesh",23.42637,76.27775,0.9763932673292105,0.9763932673292105,False
+MADHYA_PRADESH_43,Madhya Pradesh,Hoshangabad,22.75,77.75,nominatim,"Hoshangābād, Narmadapuram, Madhya Pradesh, 461005, India",22.6503147,77.7509281,0.955907561765791,0.955907561765791,False
+MADHYA_PRADESH_502,Madhya Pradesh,Bhopal,23.25,77.5,open-meteo,"Bhopal, Bhopal District, Madhya Pradesh",23.25469,77.40289,0.9457024682053258,0.9457024682053258,False
+MADHYA_PRADESH_7,Madhya Pradesh,Jabalpur,23.25,80.0,open-meteo,"Jabalpur, Jabalpur district, Madhya Pradesh",23.16697,79.95006,0.9773292503690821,0.9773292503690821,False
+MADHYA_PRADESH_8,Madhya Pradesh,Balaghat,21.75,80.25,open-meteo,"Bālāghāt, Bālāghāt District, Madhya Pradesh",21.8156,80.18845,0.9324963295494679,0.9324963295494679,False
+MADHYA_PRADESH_9,Madhya Pradesh,Chhindwara,22.0,79.0,open-meteo,"Chhindwāra, Chhindwara, Madhya Pradesh",22.05697,78.93958,0.935915089817298,0.935915089817298,False
+MAHARASHTRA_100,Maharashtra,Dhule,21.0,74.75,open-meteo,"Dhule, Dhule district, Maharashtra",20.9013,74.77737,0.9219546920422965,0.9219546920422965,False
+MAHARASHTRA_101,Maharashtra,Jalgaon,21.0,75.5,open-meteo,"Jalgaon, Jalgaon, Maharashtra",21.00292,75.56602,0.9749346811466755,0.9749346811466755,False
+MAHARASHTRA_102,Maharashtra,Ahmadnagar,21.5,78.0,open-meteo,"Ahmadnagar, Nagpur, Maharashtra",21.17303,78.56519,0.02357827141293368,0.14153243933086987,True
+MAHARASHTRA_103,Maharashtra,Pune,18.75,73.5,open-meteo,"Pune, Pune, Maharashtra",18.51957,73.85535,0.7843004436123842,0.8565669734099363,True
+MAHARASHTRA_104,Maharashtra,Satara,17.25,74.0,open-meteo,"Satara, Satara, Maharashtra",17.68589,73.99333,0.7646857089955377,0.8768039835297646,True
+MAHARASHTRA_105,Maharashtra,Sangli,16.75,74.5,open-meteo,"Sangli, Sangli, Maharashtra",16.85438,74.56417,0.8873887722022632,0.8873887722022632,False
+MAHARASHTRA_106,Maharashtra,Solapur,17.75,76.0,open-meteo,"Solapur, Sholāpur District, Maharashtra",17.67152,75.91044,0.8917532983983497,0.8917532983983497,False
+MAHARASHTRA_107,Maharashtra,Kolhapur,16.25,74.5,open-meteo,"Kolhāpur, Kolhapur, Maharashtra",16.69563,74.23167,0.7818579931428877,0.8320602817234911,True
+MAHARASHTRA_108,Maharashtra,Aurangabad,20.0,75.25,open-meteo,"Aurangabad, Aurangabad District, Maharashtra",19.87757,75.34226,0.9335378150310436,0.9335378150310436,False
+MAHARASHTRA_109,Maharashtra,Parbhani,19.25,76.75,open-meteo,"Parbhani, Parbhani District, Maharashtra",19.26855,76.77081,0.9763339975120392,0.9763339975120392,False
+MAHARASHTRA_110,Maharashtra,Bid,17.0,74.75,open-meteo,"Bid, Kolhapur, Maharashtra",16.64817,74.12988,-0.006348057558560647,0.41122683967154106,True
+MAHARASHTRA_111,Maharashtra,Nanded,19.25,77.25,open-meteo,"Nanded, Nanded District, Maharashtra",19.16023,77.31497,0.9227799293044538,0.9227799293044538,False
+MAHARASHTRA_112,Maharashtra,Osmanabad,18.25,76.0,open-meteo,"Osmanabad Airport, Osmanabad District, Maharashtra",18.27993,76.05633,0.9226899824607241,0.9226899824607241,False
+MAHARASHTRA_113,Maharashtra,Buldana,20.5,76.25,open-meteo,"Buldāna, Buldhana, Maharashtra",20.52933,76.18457,0.9640129745782658,0.9640129745782658,False
+MAHARASHTRA_114,Maharashtra,Akola,20.75,77.0,open-meteo,"Akola, Akola district, Maharashtra",20.70957,76.9981,0.9104666714402183,0.9104666714402183,False
+MAHARASHTRA_115,Maharashtra,Amravati,21.25,77.25,open-meteo,"Amravati, Amravati, Maharashtra",20.93333,77.75,0.6954707853726094,0.8927600889813276,True
+MAHARASHTRA_116,Maharashtra,Yavatmal,20.5,78.25,open-meteo,"Yavatmal, Yavatmal District, Maharashtra",20.39324,78.13201,0.9174214238649616,0.9174214238649616,False
+MAHARASHTRA_117,Maharashtra,Wardha,20.75,78.5,open-meteo,"Wardha, Wardha district, Maharashtra",20.73933,78.59784,0.9540512097651555,0.9540512097651555,False
+MAHARASHTRA_118,Maharashtra,Nagpur,21.25,79.0,open-meteo,"Nagpur, Nagpur, Maharashtra",21.14631,79.08491,0.9537346476217281,0.9537346476217281,False
+MAHARASHTRA_119,Maharashtra,Bhandara,21.25,79.75,open-meteo,"Bhandāra, Bhandara district, Maharashtra",21.16817,79.64885,0.9646465343796845,0.9646465343796845,False
+MAHARASHTRA_120,Maharashtra,Chandrapur,20.0,79.25,open-meteo,"Chandrapur, Chandrapur, Maharashtra",19.95076,79.29523,0.9310090287011633,0.9310090287011633,False
+MAHARASHTRA_514,Maharashtra,Jalna,19.75,76.0,open-meteo,"Jālna, Jalna District, Maharashtra",19.84102,75.88636,0.9661147966925664,0.9661147966925664,False
+MAHARASHTRA_515,Maharashtra,Latur,18.5,76.5,open-meteo,"Latur, Latur District, Maharashtra",18.39721,76.56784,0.956087622460936,0.956087622460936,False
+MAHARASHTRA_516,Maharashtra,Gadchiroli,20.25,80.0,open-meteo,"Garhchiroli, Gadchiroli, Maharashtra",20.18061,80.00522,0.8771422294419526,0.8771422294419526,False
+MAHARASHTRA_517,Maharashtra,Sindhudurg,15.5,73.75,open-meteo,"Sindhudurg Airport, Sindhudurg District, Maharashtra",15.99894,73.5347,0.5389141008449141,0.7798630022599513,True
+MAHARASHTRA_96,Maharashtra,Thane,19.5,73.0,open-meteo,"Thane, Thane District, Maharashtra",19.19704,72.96355,0.7994842611184708,0.9309000840041095,True
+MAHARASHTRA_97,Maharashtra,Raigarh (Kulaba),18.75,73.25,alias:open-meteo,"Alibag, Raigad, Maharashtra",18.64813,72.87579,0.849643057588691,0.9190575917565504,True
+MAHARASHTRA_98,Maharashtra,Ratnagiri,17.25,73.75,open-meteo,"Ratnagiri, Ratnagiri District, Maharashtra",16.99154,73.31022,0.5479309027232331,0.7744508757963648,True
+MAHARASHTRA_99,Maharashtra,Nashik,20.25,74.25,open-meteo,"Nashik, Nashik, Maharashtra",19.99727,73.79096,0.6910804693172242,0.8663916115623466,True
+ODISHA_701,Odisha,Baleshwar,21.0,86.5,open-meteo,"Balasore, Balasore District, Odisha",21.49266,86.93348,0.7303955020013219,0.8465678596037538,True
+ODISHA_702,Odisha,Bolangir,20.75,83.5,open-meteo,"Balāngīr, Balangir, Odisha",20.70419,83.49029,0.8895971655221331,0.8895971655221331,False
+ODISHA_703,Odisha,Cuttack,20.5,86.0,open-meteo,"Cuttack, Cuttack District, Odisha",20.46497,85.87927,0.8829242036355361,0.8829242036355361,False
+ODISHA_704,Odisha,Dhenkanal,20.75,85.5,open-meteo,"Dhenkānāl, Dhenkānāl District, Odisha",20.65744,85.59693,0.8458169335975965,0.8458169335975965,False
+ODISHA_705,Odisha,Ganjam,19.25,84.75,open-meteo,"Brahmapur, Ganjam, Odisha",19.31151,84.7929,0.7968220685930815,0.7968220685930815,False
+ODISHA_706,Odisha,Kalahandi,20.75,85.5,open-meteo,"Kalāhāndi, Nayagarh, Odisha",20.13661,85.0799,0.4456679786801101,0.5003819096565412,True
+ODISHA_707,Odisha,Keonjhar,21.75,85.5,open-meteo,"Keonjhargarh, Kendujhar, Odisha",21.6318,85.59686,0.9115069342658078,0.9115069342658078,False
+ODISHA_708,Odisha,Koraput,18.75,82.75,alias:open-meteo,"Koraput, Koraput District, Odisha",18.81199,82.71048,0.9298570291890763,0.9298570291890763,False
+ODISHA_709,Odisha,Mayurbhanj,21.75,86.25,open-meteo,"Baripāda, Mayurbhanj, Odisha",21.93458,86.72852,0.8296092653545579,0.9114261534262119,True
+ODISHA_710,Odisha,Phulbani,20.5,84.25,open-meteo,"Phulbāni, Kandhamal, Odisha",20.48101,84.23063,0.8527356447498873,0.8527356447498873,False
+ODISHA_711,Odisha,Puri,19.75,86.25,open-meteo,"Puri, Puri, Odisha",19.79825,85.82494,0.7878270843217955,0.8569650633524257,True
+ODISHA_712,Odisha,Sambalpur,21.5,84.0,open-meteo,"Sambalpur, Sambalpur District, Odisha",21.46527,83.97573,0.9496309564552122,0.9496309564552122,False
+ODISHA_713,Odisha,Sundargarh,22.0,84.0,nominatim,"Sundargarh, Odisha, India",22.0605153,83.9359154,0.9243065933575823,0.9243065933575823,False
+PUNJAB_165,Punjab,Gurdaspur,32.0,75.5,open-meteo,"Gurdaspur, Gurdaspur district, Punjab",32.03933,75.40318,0.8879331255267904,0.8879331255267904,False
+PUNJAB_166,Punjab,Amritsar,31.5,75.0,open-meteo,"Amritsar, Amritsar, Punjab",31.62234,74.87534,0.9545912883909342,0.9545912883909342,False
+PUNJAB_167,Punjab,Kapurthala,31.5,75.5,open-meteo,"Kapurthala Town, Kapurthala district, Punjab",31.38011,75.38105,0.9287285941302204,0.9287285941302204,False
+PUNJAB_168,Punjab,Jalandhar,31.25,75.5,open-meteo,"Jalandhar, Jalandhar District, Punjab",31.32556,75.57917,0.86340074423944,0.86340074423944,False
+PUNJAB_169,Punjab,Hoshiarpur,31.5,76.0,open-meteo,"Hoshiārpur, Hoshiarpur district, Punjab",31.53723,75.91269,0.92526233967312,0.92526233967312,False
+PUNJAB_170,Punjab,Rupnagar (Ropar),31.25,76.25,nominatim,"Head Post Office, Ropar/ Rupnagar, Head Post Office, Bela-Ropar Road, Rupnagar, Punjab, 140001, India",30.9664572,76.5302021,0.5915229949748815,0.7075446805468093,True
+PUNJAB_171,Punjab,Ludhiana,30.5,76.0,open-meteo,"Ludhiana, Ludhiana district, Punjab",30.91204,75.85379,0.8084905497545234,0.9185181440484035,True
+PUNJAB_172,Punjab,Firozpur,30.75,74.0,open-meteo,"Firozpur, Firozpur, Punjab",30.92574,74.61311,0.840808812135342,0.911870102584274,True
+PUNJAB_173,Punjab,Faridkot,30.75,74.75,open-meteo,"Farīdkot, Faridkot, Punjab",30.67399,74.75579,0.8716587457086994,0.8716587457086994,False
+PUNJAB_174,Punjab,Bhatinda,30.25,75.0,nominatim,"Bhatinda, Bathinda, Punjab, 151004, India",30.25,75.0,0.9457479024221037,0.9457479024221037,False
+PUNJAB_175,Punjab,Sangrur,30.25,75.75,open-meteo,"Sangrur, Sangrur District, Punjab",30.24506,75.84488,0.9314261530382769,0.9314261530382769,False
+PUNJAB_176,Punjab,Patiala,30.25,76.5,open-meteo,"Patiāla, Patiala district, Punjab",30.33625,76.3922,0.8999208427279458,0.8999208427279458,False
+RAJASTHAN_139,Rajasthan,Ajmer,26.5,74.75,open-meteo,"Ajmer, Ajmer, Rajasthan",26.4521,74.63867,0.9381094569183538,0.9381094569183538,False
+RAJASTHAN_140,Rajasthan,Alwar,27.5,76.5,open-meteo,"Alwar, Alwar, Rajasthan",27.56246,76.625,0.9891185358431326,0.9891185358431326,False
+RAJASTHAN_141,Rajasthan,Banswara,23.5,74.5,open-meteo,"Bānswāra, Banswara, Rajasthan",23.54109,74.4425,0.9936504721112948,0.9936504721112948,False
+RAJASTHAN_143,Rajasthan,Bharatpur,27.25,77.5,open-meteo,"Bharatpur, Bharatpur, Rajasthan",27.21731,77.49009,0.9271861242499356,0.9271861242499356,False
+RAJASTHAN_144,Rajasthan,Bhilwara,25.25,74.75,open-meteo,"Bhilwara, Bhīlwāra District, Rajasthan",25.34707,74.64081,0.9589724372657119,0.9589724372657119,False
+RAJASTHAN_145,Rajasthan,Bikaner,28.0,73.25,open-meteo,"Bikaner, Bīkāner District, Rajasthan",28.01762,73.31495,0.8921192865200318,0.8921192865200318,False
+RAJASTHAN_146,Rajasthan,Bundi,25.5,75.75,open-meteo,"Būndi, Bundi District, Rajasthan",25.43855,75.63735,0.9805609516492696,0.9805609516492696,False
+RAJASTHAN_147,Rajasthan,Chittaurgarh,24.5,74.5,nominatim,"Chittaurgarh, Chittorgarh, Rajasthan, India",24.5,74.5,0.9652331580564173,0.9652331580564173,False
+RAJASTHAN_149,Rajasthan,Dungarpur,23.75,73.75,open-meteo,"Dūngarpur, Dungarpur, Rajasthan",23.84306,73.71466,0.9883659303807074,0.9883659303807074,False
+RAJASTHAN_150,Rajasthan,Ganganagar,29.5,74.0,nominatim,"Gangānagar, Hanumangarh, Rajasthan, India",29.5,74.0,0.9157135439795575,0.9157135439795575,False
+RAJASTHAN_151,Rajasthan,Jaipur,27.0,75.75,open-meteo,"Jaipur, Jaipur, Rajasthan",26.91962,75.78781,0.9863099995994649,0.9863099995994649,False
+RAJASTHAN_153,Rajasthan,Jalor,25.25,72.5,open-meteo,"Jalor, Jalore, Rajasthan",25.34558,72.61559,,,False
+RAJASTHAN_154,Rajasthan,Jhalawar,24.5,76.25,open-meteo,"Jhālāwār, Jhalawar, Rajasthan",24.59633,76.16499,0.9132642376257994,0.9132642376257994,False
+RAJASTHAN_155,Rajasthan,Jhunjhuna,28.25,75.5,alias:open-meteo,"Jhunjhunūn, Jhunjhunu, Rajasthan",28.12559,75.39797,,,False
+RAJASTHAN_156,Rajasthan,Jodhpur,26.25,73.0,open-meteo,"Jodhpur, Jodhpur, Rajasthan",26.26841,73.00594,,,False
+RAJASTHAN_157,Rajasthan,Kota,25.25,76.25,open-meteo,"Kota, Kota District, Rajasthan",25.18254,75.83907,0.7803683149597376,0.9223072322085187,True
+RAJASTHAN_159,Rajasthan,Pali,25.75,73.25,open-meteo,"Pāli, Pāli, Rajasthan",25.77276,73.32335,0.9575905059622818,0.9575905059622818,False
+RAJASTHAN_160,Rajasthan,Sawai Madhopur,26.25,76.5,open-meteo,"Sawai Madhopur, Sawai Madhopur, Rajasthan",26.02301,76.34408,0.8385954095652093,0.9672517481944122,True
+RAJASTHAN_161,Rajasthan,Sikar,27.5,75.25,open-meteo,"Sīkar, Sikar, Rajasthan",27.61206,75.13996,,,False
+RAJASTHAN_162,Rajasthan,Sirohi,25.0,72.75,open-meteo,"Sirohi, Sirohi, Rajasthan",24.88838,72.84794,0.9803791592572668,0.9803791592572668,False
+RAJASTHAN_163,Rajasthan,Tonk,26.25,75.75,open-meteo,"Tonk, Tonk, Rajasthan",26.16638,75.78824,0.9820964915228636,0.9820964915228636,False
+RAJASTHAN_164,Rajasthan,Udaipur,24.5,73.75,open-meteo,"Udaipur, Udaipur District, Rajasthan",24.58584,73.71346,0.9535289029385778,0.9535289029385778,False
+RAJASTHAN_519,Rajasthan,Dholpur,26.75,78.0,open-meteo,"Dhaulpur, Dholpur, Rajasthan",26.69286,77.87968,0.8552033843728388,0.8552033843728388,False
+TAMIL_NADU_506,Tamil Nadu,Dharmapuri,12.25,78.25,open-meteo,"Dharmapuri, Dharmapuri, Tamil Nadu",12.1277,78.15794,0.9072891871467405,0.9072891871467405,False
+TAMIL_NADU_507,Tamil Nadu,Periyar,11.25,77.75,open-meteo,"Erode, Erode, Tamil Nadu",11.3428,77.72741,0.8697583527085418,0.8697583527085418,False
+TAMIL_NADU_508,Tamil Nadu,Pudukkottai,10.5,78.75,open-meteo,"Pudukkottai, Pudukkottai, Tamil Nadu",10.38128,78.82141,0.8625897023641145,0.8625897023641145,False
+TAMIL_NADU_509,Tamil Nadu,Dindigul-Quaide Milleth (Anna),10.25,78.0,alias:open-meteo,"Dindigul, Dindigul, Tamil Nadu",10.36896,77.98036,0.8709786218396588,0.8709786218396588,False
+TAMIL_NADU_510,Tamil Nadu,Kamarajar,12.5,79.75,nominatim,"State Bank of India, Rangarajapuram Main Road, Kamarajar Colony, Ward 134, Zone 10 Kodambakkam, Chennai, Chennai Metropolitan Area, Chennai District, Tamil Nadu, 600024, India",13.0468955,80.2260094,0.42098990767628597,0.6232591114410189,True
+TAMIL_NADU_512,Tamil Nadu,Pasupomthevar Thirumaganar (Pasumpon Mathuamlinga*,10.0,78.0,alias:open-meteo,"Madurai, Madurai, Tamil Nadu",9.919,78.11953,0.8337214998975595,0.8337214998975595,False
+TAMIL_NADU_513,Tamil Nadu,V. O. Chidambaram,11.25,79.25,nominatim,"V.O.C Street, Chidambaram, Cuddalore, Tamil Nadu, 608001, India",11.4002492,79.6984683,0.5409372794762467,0.6023167114420929,True
+TAMIL_NADU_521,Tamil Nadu,Thiruvannamalai Sambuvarayar,12.25,79.0,alias:open-meteo,"Tiruvannamalai, Tiruvannamalai, Tamil Nadu",12.22662,79.07461,0.8809692289179116,0.8809692289179116,False
+TAMIL_NADU_83,Tamil Nadu,Chengai Anna (Chengalpattu),12.75,80.0,alias:open-meteo,"Chengalpattu, Chengalpattu district, Tamil Nadu",12.69184,79.97661,0.8983945468043839,0.8983945468043839,False
+TAMIL_NADU_84,Tamil Nadu,South Arcot,11.5,79.5,nominatim,"South Arcot, Cuddalore, Tamil Nadu, 607804, India",11.5,79.416667,0.8850843635030146,0.8850843635030146,False
+TAMIL_NADU_85,Tamil Nadu,North Arcot Ambedhkar,13.0,79.25,alias:open-meteo,"Vellore, Vellore district, Tamil Nadu",12.9184,79.13255,0.920813676407562,0.920813676407562,False
+TAMIL_NADU_86,Tamil Nadu,Salem,11.75,78.25,open-meteo,"Salem, Salem district, Tamil Nadu",11.65376,78.15538,0.8783720134475065,0.8783720134475065,False
+TAMIL_NADU_87,Tamil Nadu,Coimbatore,11.0,77.0,open-meteo,"Coimbatore, Coimbatore district, Tamil Nadu",11.00555,76.96612,0.8885255457113365,0.8885255457113365,False
+TAMIL_NADU_88,Tamil Nadu,Tiruchirpalli,10.25,78.25,alias:open-meteo,"Tiruchirappalli, Trichinopoly District, Tamil Nadu",10.8155,78.69651,0.7989417464618364,0.8915001098559623,True
+TAMIL_NADU_89,Tamil Nadu,Thanjavur,10.75,79.25,open-meteo,"Thanjavur, Thanjavur, Tamil Nadu",10.78523,79.13909,0.8445250617310216,0.8445250617310216,False
+TAMIL_NADU_90,Tamil Nadu,Madurai,10.0,78.0,open-meteo,"Madurai, Madurai, Tamil Nadu",9.919,78.11953,0.927552399094313,0.927552399094313,False
+TAMIL_NADU_91,Tamil Nadu,Ramanathapuram,9.25,78.75,open-meteo,"Ramanathapuram, Ramanathapuram, Tamil Nadu",9.37158,78.83077,0.916812886194992,0.916812886194992,False
+TAMIL_NADU_92,Tamil Nadu,Tirunelveli Kottabomman,8.75,77.25,alias:open-meteo,"Tirunelveli, Tirunelveli, Tamil Nadu",8.72742,77.6838,0.7416970994431911,0.8677042816155407,True
+TAMIL_NADU_93,Tamil Nadu,Nilgiri,11.5,76.5,open-meteo,"Nilgiri Peak, Nilgiris District, Tamil Nadu",11.38331,76.47628,0.93327946657153,0.93327946657153,False
+TAMIL_NADU_94,Tamil Nadu,Kannyia Kumari,8.25,77.5,alias:open-meteo,"Nagercoil, Kanniyakumari, Tamil Nadu",8.17899,77.43227,0.8215022011546104,0.8215022011546104,False
+TELANGANA_520,Telangana,Rangareddy,17.25,78.0,nominatim,"State Bank of India, 8JG4+R5C, 4-4-19/2, NH 65, Veerbhadra Colony, IPM Blood Bank Colony, Hayathnagar_Khalsa, Hyderabad, Telangana, TSRTC Hayatnagar Bus Station Inner Road, Pochamma Basthi, Ward 12 Mansoorabad, Greater Hyderabad Municipal Corporation East Zone, Hyderabad, Ranga Reddy, Telangana, 501505, India",17.3277898,78.6052636,0.8252934510717265,0.8869565494901405,True
+TELANGANA_55,Telangana,Hyderabad,17.5,78.5,open-meteo,"Hyderabad, Hyderabad District, Telangana",17.38405,78.45636,,,False
+TELANGANA_56,Telangana,Nizamabad,18.75,78.0,open-meteo,"Nizāmābād, Nizamabad District, Telangana",18.67154,78.0988,0.9471804324358687,0.9471804324358687,False
+TELANGANA_57,Telangana,Medak,18.0,78.25,open-meteo,"Medak, Medak District, Telangana",18.04531,78.26078,0.953469287487819,0.953469287487819,False
+TELANGANA_58,Telangana,Mahbubnagar,16.5,77.75,open-meteo,"Mahbūbnagar, Mahbūbnagar District, Telangana",16.74385,77.98597,0.8276576344180718,0.9094253087151161,True
+TELANGANA_59,Telangana,Nalgonda,17.0,79.25,open-meteo,"Nalgonda, Nalgonda District, Telangana",17.05439,79.26707,0.857782821849592,0.857782821849592,False
+TELANGANA_60,Telangana,Warangal,18.25,79.75,open-meteo,"Warangal, Hanamkonda, Telangana",18.0,79.58333,0.7309840716502417,0.9126066620940286,True
+TELANGANA_61,Telangana,Khammam,17.75,80.75,open-meteo,"Khammam, Khammam district, Telangana",17.24767,80.14368,0.6350191914433998,0.8088517277261026,True
+TELANGANA_62,Telangana,Karimnagar,18.5,79.25,open-meteo,"Karīmnagar, Karīmngar District, Telangana",18.43915,79.12856,0.9486795079212202,0.9486795079212202,False
+TELANGANA_63,Telangana,Adilabad,19.75,78.5,open-meteo,"Adilabad, Adilabad District, Telangana",19.67203,78.5359,0.9291751867939475,0.9291751867939475,False
+UTTARAKHAND_237,Uttarakhand,Nainital,29.5,79.5,open-meteo,"Nainital, Nainital, Uttarakhand",29.39743,79.44686,0.8595153295284647,0.8595153295284647,False
+UTTARAKHAND_238,Uttarakhand,Almora,29.75,79.75,open-meteo,"Almora, Almora district, Uttarakhand",29.59713,79.65911,0.720072003261387,0.9239374162786139,True
+UTTARAKHAND_239,Uttarakhand,Pithoragarh,29.5,80.25,open-meteo,"Pithorāgarh, Pithoragarh, Uttarakhand",29.58349,80.20947,0.8929663017431587,0.8929663017431587,False
+UTTARAKHAND_240,Uttarakhand,Chamoli,30.25,79.5,open-meteo,"Chamoli, Chamoli district, Uttarakhand",30.40271,79.33303,0.24414645593481202,0.6020907144262376,True
+UTTARAKHAND_241,Uttarakhand,Uttar Kashi,30.75,78.5,alias:open-meteo,"Uttarkāshi, Uttar Kashi, Uttarakhand",30.72986,78.44342,0.7521710816622781,0.7521710816622781,False
+UTTARAKHAND_242,Uttarakhand,Tehri Garhwal,30.5,78.5,open-meteo,"Tehri, Tehri Garhwal, Uttarakhand",30.39086,78.4803,0.871490314953652,0.871490314953652,False
+UTTARAKHAND_243,Uttarakhand,Garhwal,29.25,79.0,open-meteo,"Garhwāl Khatta, Nainital, Uttarakhand",29.26211,79.18541,0.8171932871033404,0.9091073159649952,True
+UTTARAKHAND_244,Uttarakhand,Dehra Dun,30.0,78.0,nominatim,"Dehra Dūn, Dehradun, Uttarakhand, India",30.416667,77.933333,0.7170504506283638,0.8130966133334938,True
+UTTARAKHAND_527,Uttarakhand,Hardwar,30.0,78.0,open-meteo,"Haridwar, Haridwar, Uttarakhand",29.94791,78.16025,0.8375934873701372,0.8999557935883682,True
+UTTAR_PRADESH_189,Uttar Pradesh,Saharanpur,30.0,77.5,open-meteo,"Sahāranpur, Sahāranpur District, Uttar Pradesh",29.9679,77.54522,0.9045693922862081,0.9045693922862081,False
+UTTAR_PRADESH_190,Uttar Pradesh,Muzaffarnagar,29.5,77.75,open-meteo,"Muzaffarnagar, Muzaffarnagar district, Uttar Pradesh",29.47091,77.70332,0.8721808641389831,0.8721808641389831,False
+UTTAR_PRADESH_191,Uttar Pradesh,Meerut,29.0,77.75,open-meteo,"Meerut, Meerut, Uttar Pradesh",28.98002,77.70636,0.9340706536104765,0.9340706536104765,False
+UTTAR_PRADESH_192,Uttar Pradesh,Bulandshahr,28.5,77.75,open-meteo,"Bulandshahr, Bulandshahr district, Uttar Pradesh",28.40392,77.85773,0.8636704447408015,0.8636704447408015,False
+UTTAR_PRADESH_193,Uttar Pradesh,Ghaziabad,28.75,77.5,open-meteo,"Ghaziabad, Ghaziabad, Uttar Pradesh",28.66535,77.43915,0.9147324697165083,0.9147324697165083,False
+UTTAR_PRADESH_194,Uttar Pradesh,Aligarh,28.0,78.0,open-meteo,"Aligarh, Alīgarh District, Uttar Pradesh",27.88145,78.07464,0.9514874252425835,0.9514874252425835,False
+UTTAR_PRADESH_195,Uttar Pradesh,Mathura,27.5,77.75,open-meteo,"Mathura, Mathura district, Uttar Pradesh",27.5035,77.67215,0.9836533585377836,0.9836533585377836,False
+UTTAR_PRADESH_196,Uttar Pradesh,Agra,27.25,78.0,open-meteo,"Agra, Agra, Uttar Pradesh",27.18333,78.01667,0.9741885832343757,0.9741885832343757,False
+UTTAR_PRADESH_197,Uttar Pradesh,Mainpuri,27.25,79.0,open-meteo,"Mainpuri, Mainpuri district, Uttar Pradesh",27.22857,79.02882,0.9665443141915082,0.9665443141915082,False
+UTTAR_PRADESH_198,Uttar Pradesh,Etah,27.5,78.75,open-meteo,"Etah, Etah district, Uttar Pradesh",27.55879,78.65692,0.9563843398190756,0.9563843398190756,False
+UTTAR_PRADESH_199,Uttar Pradesh,Bareilly,28.25,79.5,open-meteo,"Bareilly, Bareilly district, Uttar Pradesh",28.36678,79.43167,0.8774741513681683,0.8774741513681683,False
+UTTAR_PRADESH_200,Uttar Pradesh,Budaun,28.0,79.25,open-meteo,"Budaun, Budaun district, Uttar Pradesh",28.03811,79.12668,0.9103043762799328,0.9103043762799328,False
+UTTAR_PRADESH_201,Uttar Pradesh,Moradabad,28.75,78.75,open-meteo,"Morādābād, Moradabad, Uttar Pradesh",28.83893,78.77684,0.9365445904433495,0.9365445904433495,False
+UTTAR_PRADESH_202,Uttar Pradesh,Shahjahanpur,28.0,80.0,open-meteo,"Shahjahanpur, Shāhjahānpur District, Uttar Pradesh",27.88165,79.90918,0.9741385042327229,0.9741385042327229,False
+UTTAR_PRADESH_203,Uttar Pradesh,Pilibhit,28.25,79.75,open-meteo,"Pīlibhīt, Pilibhit District, Uttar Pradesh",28.63124,79.80436,0.8247281306053201,0.908684990082167,True
+UTTAR_PRADESH_204,Uttar Pradesh,Rampur,28.75,79.0,open-meteo,"Rāmpur, Rampur, Uttar Pradesh",28.81014,79.02699,0.9396837410820881,0.9396837410820881,False
+UTTAR_PRADESH_205,Uttar Pradesh,Bijnor,29.25,78.25,open-meteo,"Bijnor, Bijnor district, Uttar Pradesh",29.373,78.13636,0.9469280454834546,0.9469280454834546,False
+UTTAR_PRADESH_206,Uttar Pradesh,Farrukhabad,27.5,79.5,open-meteo,"Farrukhābād, Farrukhābād District, Uttar Pradesh",27.39134,79.5793,0.8979862632575412,0.8979862632575412,False
+UTTAR_PRADESH_207,Uttar Pradesh,Etawah,26.75,79.0,open-meteo,"Etāwah, Etāwah District, Uttar Pradesh",26.77615,79.02133,0.9128838843798478,0.9128838843798478,False
+UTTAR_PRADESH_209,Uttar Pradesh,Fatehpur,26.0,80.75,open-meteo,"Fatehpur, Fatehpur District, Uttar Pradesh",25.92774,80.81266,0.9454364900483342,0.9454364900483342,False
+UTTAR_PRADESH_210,Uttar Pradesh,Allahabad,25.5,81.75,nominatim,"National Academy of Sciences, India, Mumfordganj, Prayagraj, Allahabad, Prayagraj, Uttar Pradesh, 211001, India",25.4741716,81.8495397,0.9106143380299001,0.9106143380299001,False
+UTTAR_PRADESH_211,Uttar Pradesh,Jhansi,25.5,78.5,open-meteo,"Jhānsi, Jhānsi District, Uttar Pradesh",25.45887,78.57994,0.9178210590120988,0.9178210590120988,False
+UTTAR_PRADESH_212,Uttar Pradesh,Lalitpur,24.75,78.5,open-meteo,"Lalitpur, Lalitpur, Uttar Pradesh",24.69007,78.41915,0.9872209291159457,0.9872209291159457,False
+UTTAR_PRADESH_213,Uttar Pradesh,Jalaun,26.25,79.25,open-meteo,"Jālaun, Jalaun, Uttar Pradesh",26.1451,79.3366,0.9556123075958418,0.9556123075958418,False
+UTTAR_PRADESH_214,Uttar Pradesh,Hamirpur,25.5,79.75,open-meteo,"Hamīrpur, Hamirpur, Uttar Pradesh",25.9553,80.14842,0.8335568278724311,0.9885404138683735,True
+UTTAR_PRADESH_215,Uttar Pradesh,Banda,25.5,80.25,open-meteo,"Bānda, Bānda District, Uttar Pradesh",25.47758,80.33491,0.9425128074099943,0.9425128074099943,False
+UTTAR_PRADESH_216,Uttar Pradesh,Varanasi,25.25,83.0,open-meteo,"Varanasi, Varanasi, Uttar Pradesh",25.31668,83.01041,0.965252712660329,0.965252712660329,False
+UTTAR_PRADESH_217,Uttar Pradesh,Mirzapur,25.25,82.5,open-meteo,"Mirzāpur, Mirzapur, Uttar Pradesh",25.1449,82.56534,0.9538768702021521,0.9538768702021521,False
+UTTAR_PRADESH_218,Uttar Pradesh,Jaunpur,25.75,82.75,open-meteo,"Jaunpur, Jaunpur district, Uttar Pradesh",25.75356,82.68689,0.9296245342729094,0.9296245342729094,False
+UTTAR_PRADESH_219,Uttar Pradesh,Ghazipur,25.5,83.5,open-meteo,"Ghazīpur, Ghazipur, Uttar Pradesh",25.58333,83.58526,0.8835004664909983,0.8835004664909983,False
+UTTAR_PRADESH_220,Uttar Pradesh,Ballia,27.75,78.75,open-meteo,"Ballia, Bareilly district, Uttar Pradesh",28.20069,79.36668,-0.06131186411171479,0.25122123630966675,True
+UTTAR_PRADESH_221,Uttar Pradesh,Gorakhpur,26.75,83.25,open-meteo,"Gorakhpur, Gorakhpur District, Uttar Pradesh",26.76628,83.36889,0.8951080494122432,0.8951080494122432,False
+UTTAR_PRADESH_222,Uttar Pradesh,Deeria,26.5,84.0,alias:open-meteo,"Deoria, Deoria, Uttar Pradesh",26.50167,83.77936,0.7832262060217764,0.8881482142643173,True
+UTTAR_PRADESH_223,Uttar Pradesh,Basti,26.75,82.75,open-meteo,"Basti, Basti district, Uttar Pradesh",26.78817,82.71617,0.9722901889792956,0.9722901889792956,False
+UTTAR_PRADESH_224,Uttar Pradesh,Azamgarh,26.0,83.25,open-meteo,"Azamgarh, Azamgarh District, Uttar Pradesh",26.06832,83.18358,0.918619773755386,0.918619773755386,False
+UTTAR_PRADESH_225,Uttar Pradesh,Lucknow,26.75,81.0,open-meteo,"Lucknow, Lucknow, Uttar Pradesh",26.83928,80.92313,0.8930833834757568,0.8930833834757568,False
+UTTAR_PRADESH_226,Uttar Pradesh,Unnao,26.5,80.5,open-meteo,"Unnāo, Unao District, Uttar Pradesh",26.54706,80.48781,0.9831939469706011,0.9831939469706011,False
+UTTAR_PRADESH_227,Uttar Pradesh,Rai Bareli,26.25,81.25,alias:open-meteo,"Raebareli, Rae Bareli, Uttar Pradesh",26.2309,81.23315,0.9777597530133045,0.9777597530133045,False
+UTTAR_PRADESH_228,Uttar Pradesh,Sitapur,27.5,80.75,open-meteo,"Sītāpur, Sītāpur District, Uttar Pradesh",27.56192,80.68265,0.9446193353167754,0.9446193353167754,False
+UTTAR_PRADESH_229,Uttar Pradesh,Hardoi,27.5,80.25,open-meteo,"Hardoī, Hardoi district, Uttar Pradesh",27.39491,80.13165,0.8660576862383912,0.8660576862383912,False
+UTTAR_PRADESH_230,Uttar Pradesh,Kheri,28.0,80.75,open-meteo,"Kheri, Kheri, Uttar Pradesh",27.90354,80.79754,0.9786349142780536,0.9786349142780536,False
+UTTAR_PRADESH_231,Uttar Pradesh,Faizabad,26.5,82.25,open-meteo,"Faizabad, Ayodhya, Uttar Pradesh",26.77549,82.15018,0.8284799128653515,0.9452887313626773,True
+UTTAR_PRADESH_232,Uttar Pradesh,Gonda,28.0,78.5,open-meteo,"Gonda, Alīgarh District, Uttar Pradesh",27.83126,77.87907,0.2183603456659578,0.4542387096390684,True
+UTTAR_PRADESH_233,Uttar Pradesh,Bahraich,27.5,81.5,open-meteo,"Bahraich, Bahraich district, Uttar Pradesh",27.57429,81.59474,0.8378280626732594,0.8378280626732594,False
+UTTAR_PRADESH_234,Uttar Pradesh,Sultanpur,26.25,82.0,open-meteo,"Sultānpur, Sultānpur District, Uttar Pradesh",26.25788,82.07269,0.9076117336819594,0.9076117336819594,False
+UTTAR_PRADESH_235,Uttar Pradesh,Pratapgarh,26.0,82.0,open-meteo,"Bela, Partabgarh District, Uttar Pradesh",25.92058,81.99629,0.9496712935272845,0.9496712935272845,False
+UTTAR_PRADESH_236,Uttar Pradesh,Bara Banki,27.0,81.25,open-meteo,"Bāra Bankī, Barabanki, Uttar Pradesh",26.92384,81.17927,0.8889561410221755,0.8889561410221755,False
+UTTAR_PRADESH_528,Uttar Pradesh,Firozabad,27.25,78.5,open-meteo,"Firozabad, Firozabad, Uttar Pradesh",27.15092,78.39781,0.9616221347235284,0.9616221347235284,False
+UTTAR_PRADESH_529,Uttar Pradesh,Sonbadra,24.75,83.0,alias:open-meteo,"Robertsganj, Sonbhadra, Uttar Pradesh",24.6886,83.06784,0.9319258400474775,0.9319258400474775,False
+UTTAR_PRADESH_530,Uttar Pradesh,Maunath Bhanjan,26.0,83.5,nominatim,"State Bank of India, NH128B, Mau, Maunath Bhanjan, Mau, Uttar Pradesh, 275101, India",25.9300451,83.5666861,0.935610114379988,0.935610114379988,False
+UTTAR_PRADESH_531,Uttar Pradesh,Maharajganj,27.25,83.5,open-meteo,"Mahārāganj, Maharajganj, Uttar Pradesh",27.14456,83.56214,0.9612280372482649,0.9612280372482649,False
+UTTAR_PRADESH_532,Uttar Pradesh,Sidharthanagar,27.25,83.0,alias:open-meteo,"Naugarh, Siddharth Nagar, Uttar Pradesh",27.30195,83.09633,0.9197257797498327,0.9197257797498327,False
+UTTAR_PRADESH_547,Uttar Pradesh,Kanpur Nagar,26.5,80.25,nominatim,"Kanpur Nagar, Uttar Pradesh, India",26.4410107,80.2652803,0.9228846594754018,0.9228846594754018,False
+UTTAR_PRADESH_548,Uttar Pradesh,Kanpur Dehat,26.5,79.75,nominatim,"Kanpur Dehat, Uttar Pradesh, India",26.4585639,79.8548052,0.9653257945475483,0.9653257945475483,False
+WEST_BENGAL_801,West Bengal,24-Parganas (South),22.0,88.5,nominatim,"Bata India Ltd., Batanagar, Maheshtala, Greater Kolkata, Thakurpukur Maheshtala, South 24 Parganas, West Bengal, India",22.5141526,88.2200032,0.7591653957835364,0.8452408109213753,True
+WEST_BENGAL_802,West Bengal,24-Parganas (North),22.5,88.5,nominatim,"All India Institute of Hygiene and Public Health, Sector IV, Bidhannagar, Greater Kolkata, Rajarhat, North 24 Parganas, West Bengal, India",22.5685465,88.4144383,0.7632636388469947,0.7632636388469947,False
+WEST_BENGAL_803,West Bengal,Nadia,23.5,88.5,nominatim,"Nadia, West Bengal, India",23.4847374,88.5567067,0.9556034563948796,0.9556034563948796,False
+WEST_BENGAL_804,West Bengal,Murshidabad,24.25,88.25,open-meteo,"Murshidābād, Murshidabad District, West Bengal",24.1839,88.27171,0.8639438273446675,0.8639438273446675,False
+WEST_BENGAL_805,West Bengal,Burdwan,23.25,87.75,open-meteo,"Bardhaman, Purba Bardhaman, West Bengal",23.25572,87.85691,0.9369404559726786,0.9369404559726786,False
+WEST_BENGAL_806,West Bengal,Birbhum,24.0,87.75,nominatim,"Birbhum, West Bengal, India",24.0621532,87.6982823,0.9548807935956409,0.9548807935956409,False
+WEST_BENGAL_807,West Bengal,Bankura,23.25,87.0,open-meteo,"Bānkura, Bānkura District, West Bengal",23.23241,87.0716,0.8606308418946863,0.8606308418946863,False
+WEST_BENGAL_810,West Bengal,Hooghly,22.75,88.0,open-meteo,"Hugli, Hooghly, West Bengal",22.90877,88.39674,0.6476345327237305,0.8482403932559321,True
+WEST_BENGAL_812,West Bengal,Jalpaiguri,26.5,88.75,open-meteo,"Jalpāiguri, Jalpaiguri District, West Bengal",26.51667,88.73333,0.8808836149413163,0.8808836149413163,False
+WEST_BENGAL_813,West Bengal,Darjiling,27.0,88.25,open-meteo,"Darjeeling, Darjeeling, West Bengal",27.03333,88.26667,0.9620723179451234,0.9620723179451234,False
+WEST_BENGAL_814,West Bengal,Maldah,25.0,88.25,nominatim,"Maldah, West Bengal, India",25.0977098,88.1261713,0.9449562583916361,0.9449562583916361,False
+WEST_BENGAL_816,West Bengal,Kochbihar,26.25,89.5,alias:open-meteo,"Koch Bihār, Cooch Behar, West Bengal",26.32539,89.44508,0.8654340478190259,0.8654340478190259,False
+WEST_BENGAL_817,West Bengal,Puruliya,23.25,86.25,open-meteo,"Puruliya, Purulia, West Bengal",23.33062,86.36303,0.8613208848429409,0.8613208848429409,False
+WEST_BENGAL_823,West Bengal,East Midnapur,21.75,87.5,alias:open-meteo,"Tamlūk, East Midnapore, West Bengal",22.30083,87.92593,0.7783529630562623,0.8542071855572407,True
+WEST_BENGAL_824,West Bengal,West Midnapur,22.5,87.25,alias:open-meteo,"Medinīpur, West Midnapore, West Bengal",22.42114,87.32257,0.9343796319204528,0.9343796319204528,False

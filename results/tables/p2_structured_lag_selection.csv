@@ -1,0 +1,4 @@
+feature_set,model,val_MAE,ref_val_MAE,test_MAE
+S1_Smooth2,RF,339.1474,340.3082,327.0378
+S6_PanelIndexAsym,Ridge,345.438,346.755,332.506
+S4_AsymTotal,XGB,344.7876,344.9656,334.054
